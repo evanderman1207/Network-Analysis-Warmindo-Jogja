@@ -1,0 +1,2708 @@
+<?xml version="1.0"?><NA:DIRECTIONS version="1.0" xmlns:NA="http://www.esri.com/arcgis/directions" xmlns="http://www.esri.com/arcgis/directions">
+  <ROUTE id="2" name="Location 1 - Location 18">
+    <PATH id="1" fromStop="Location 1" toStop="Location 2">
+      <DIRECTION id="1" distance="0.000000" cumul_length="0.000000" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="431684.921265" miny="9138048.535488" maxx="431684.921265" maxy="9138048.535488"/>
+        <POINT name="maneuver" x="431684.921265" y="9138048.535488"/>
+        <STRINGS>
+          <STRING style="depart" text="Start at Location 1"/>
+          <STRING style="Cumul_length" text="0 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="2" distance="0.010625" cumul_length="0.000000" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="269.780831" general_bearing="269.780831" maneuvertype="straight">
+        <ENVELOPE minx="431667.827500" miny="9138048.470100" maxx="431684.921265" maxy="9138048.535488"/>
+        <POINT name="maneuver" x="431684.921265" y="9138048.535488"/>
+        <STRINGS>
+          <STRING style="normal" text="Go west on Jalan Bung Tarjo"/>
+          <STRING style="Cumul_length" text="0 ft"/>
+          <STRING style="summary" text="Drive 56 ft"/>
+          <STRING style="length" text="56 ft"/>
+          <STRING style="street_name" text="Jalan Bung Tarjo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="3" distance="0.088894" cumul_length="0.010625" time="0.000000" drivetime="0.000000" turn_angle="90.134911" depart_bearing="359.915742" general_bearing="351.471063" maneuvertype="turn_right">
+        <ENVELOPE minx="431646.595700" miny="9138048.470100" maxx="431667.827500" maxy="9138188.503900"/>
+        <POINT name="maneuver" x="431667.827500" y="9138048.470100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="56 ft"/>
+          <STRING style="summary" text="Drive 469 ft"/>
+          <STRING style="length" text="469 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="4" distance="0.114842" cumul_length="0.099519" time="0.000000" drivetime="0.000000" turn_angle="274.707634" depart_bearing="275.146224" general_bearing="275.610641" maneuvertype="turn_left">
+        <ENVELOPE minx="431462.986400" miny="9138188.503900" maxx="431646.827000" maxy="9138206.564100"/>
+        <POINT name="maneuver" x="431646.827000" y="9138188.503900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="525 ft"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="5" distance="0.066783" cumul_length="0.214361" time="0.000000" drivetime="0.000000" turn_angle="85.491825" depart_bearing="1.356013" general_bearing="1.709423" maneuvertype="turn_right">
+        <ENVELOPE minx="431462.986400" miny="9138206.564100" maxx="431466.191300" maxy="9138313.952800"/>
+        <POINT name="maneuver" x="431462.986400" y="9138206.564100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="0.2 mi"/>
+          <STRING style="summary" text="Drive 353 ft"/>
+          <STRING style="length" text="353 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="6" distance="0.077782" cumul_length="0.281144" time="0.000000" drivetime="0.000000" turn_angle="274.962439" depart_bearing="277.098775" general_bearing="358.382550" maneuvertype="turn_left_right">
+        <ENVELOPE minx="431458.019500" miny="9138313.952800" maxx="431466.191300" maxy="9138431.768500"/>
+        <POINT name="maneuver" x="431466.191300" y="9138313.952800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Dokter Sutomo and immediately turn right"/>
+          <STRING style="Cumul_length" text="0.3 mi"/>
+          <STRING style="summary" text="Drive 411 ft"/>
+          <STRING style="length" text="411 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Dokter Sutomo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="7" distance="0.009723" cumul_length="0.358927" time="0.000000" drivetime="0.000000" turn_angle="274.636504" depart_bearing="276.856231" general_bearing="276.856231" maneuvertype="turn_left">
+        <ENVELOPE minx="431447.333790" miny="9138431.768500" maxx="431462.864500" maxy="9138433.635886"/>
+        <POINT name="maneuver" x="431462.864500" y="9138431.768500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Tunjung"/>
+          <STRING style="Cumul_length" text="0.4 mi"/>
+          <STRING style="summary" text="Drive 51 ft"/>
+          <STRING style="length" text="51 ft"/>
+          <STRING style="street_name" text="Jalan Tunjung"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="8" distance="0.000000" cumul_length="0.368650" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="431447.333790" miny="9138433.635886" maxx="431447.333790" maxy="9138433.635886"/>
+        <POINT name="maneuver" x="431447.333790" y="9138433.635886"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 2, on the right"/>
+          <STRING style="Cumul_length" text="0.4 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="2" fromStop="Location 2" toStop="Location 3">
+      <DIRECTION id="9" distance="0.000000" cumul_length="0.368650" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="431447.333790" miny="9138433.635886" maxx="431447.333790" maxy="9138433.635886"/>
+        <POINT name="maneuver" x="431447.333790" y="9138433.635886"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 2"/>
+          <STRING style="Cumul_length" text="0.4 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="10" distance="0.355793" cumul_length="0.368650" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="96.856231" general_bearing="97.472109" maneuvertype="u_turn">
+        <ENVELOPE minx="431447.333790" miny="9138359.616300" maxx="432011.691100" maxy="9138433.635886"/>
+        <POINT name="maneuver" x="431447.333790" y="9138433.635886"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back east on Jalan Tunjung"/>
+          <STRING style="Cumul_length" text="0.4 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Tunjung"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="11" distance="0.070229" cumul_length="0.724443" time="0.000000" drivetime="0.000000" turn_angle="249.200640" depart_bearing="353.204923" general_bearing="15.971899" maneuvertype="turn_left">
+        <ENVELOPE minx="432010.798100" miny="9138359.616300" maxx="432042.593900" maxy="9138467.587000"/>
+        <POINT name="maneuver" x="432011.691100" y="9138359.616300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Mawar"/>
+          <STRING style="Cumul_length" text="0.7 mi"/>
+          <STRING style="summary" text="Drive 371 ft"/>
+          <STRING style="length" text="371 ft"/>
+          <STRING style="street_name" text="Jalan Mawar"/>
+          <STRING style="intersected_road_name" text="Jalan M. Djami'at Dhalar"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="12" distance="0.090520" cumul_length="0.794672" time="0.000000" drivetime="0.000000" turn_angle="86.121235" depart_bearing="104.034137" general_bearing="103.314254" maneuvertype="turn_right">
+        <ENVELOPE minx="432042.593900" miny="9138434.084600" maxx="432184.161700" maxy="9138467.587000"/>
+        <POINT name="maneuver" x="432042.593900" y="9138467.587000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Mawar V"/>
+          <STRING style="Cumul_length" text="0.8 mi"/>
+          <STRING style="summary" text="Drive 478 ft"/>
+          <STRING style="length" text="478 ft"/>
+          <STRING style="street_name" text="Jalan Mawar V"/>
+          <STRING style="intersected_road_name" text="Jalan Kemuning"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="13" distance="0.091013" cumul_length="0.885192" time="0.000000" drivetime="0.000000" turn_angle="281.516930" depart_bearing="18.721635" general_bearing="58.293893" maneuvertype="turn_left">
+        <ENVELOPE minx="432184.161700" miny="9138434.084600" maxx="432281.191800" maxy="9138505.739900"/>
+        <POINT name="maneuver" x="432184.161700" y="9138434.084600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Buntu"/>
+          <STRING style="Cumul_length" text="0.9 mi"/>
+          <STRING style="summary" text="Drive 481 ft"/>
+          <STRING style="length" text="481 ft"/>
+          <STRING style="street_name" text="Jalan Buntu"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="14" distance="0.075845" cumul_length="0.976205" time="0.000000" drivetime="0.000000" turn_angle="266.938711" depart_bearing="10.808791" general_bearing="10.803078" maneuvertype="turn_left">
+        <ENVELOPE minx="432281.191800" miny="9138494.025900" maxx="432304.062000" maxy="9138613.880700"/>
+        <POINT name="maneuver" x="432281.191800" y="9138494.025900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Gondosuli"/>
+          <STRING style="Cumul_length" text="1.0 mi"/>
+          <STRING style="summary" text="Drive 400 ft"/>
+          <STRING style="length" text="400 ft"/>
+          <STRING style="street_name" text="Jalan Gondosuli"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="15" distance="0.007877" cumul_length="1.052050" time="0.000000" drivetime="0.000000" turn_angle="92.500486" depart_bearing="103.300552" general_bearing="103.300552" maneuvertype="turn_right">
+        <ENVELOPE minx="432304.062000" miny="9138610.965365" maxx="432316.394206" maxy="9138613.880700"/>
+        <POINT name="maneuver" x="432304.062000" y="9138613.880700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Gang Lembayung"/>
+          <STRING style="Cumul_length" text="1.1 mi"/>
+          <STRING style="summary" text="Drive 42 ft"/>
+          <STRING style="length" text="42 ft"/>
+          <STRING style="street_name" text="Gang Lembayung"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="16" distance="0.000000" cumul_length="1.059927" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="432316.394206" miny="9138610.965365" maxx="432316.394206" maxy="9138610.965365"/>
+        <POINT name="maneuver" x="432316.394206" y="9138610.965365"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 3, on the left"/>
+          <STRING style="Cumul_length" text="1.1 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="3" fromStop="Location 3" toStop="Location 4">
+      <DIRECTION id="17" distance="0.000000" cumul_length="1.059927" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="432316.394206" miny="9138610.965365" maxx="432316.394206" maxy="9138610.965365"/>
+        <POINT name="maneuver" x="432316.394206" y="9138610.965365"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 3"/>
+          <STRING style="Cumul_length" text="1.1 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="18" distance="0.007877" cumul_length="1.059927" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="283.300552" general_bearing="283.300552" maneuvertype="u_turn">
+        <ENVELOPE minx="432304.062000" miny="9138610.965365" maxx="432316.394206" maxy="9138613.880700"/>
+        <POINT name="maneuver" x="432316.394206" y="9138610.965365"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back west on Gang Lembayung"/>
+          <STRING style="Cumul_length" text="1.1 mi"/>
+          <STRING style="summary" text="Drive 42 ft"/>
+          <STRING style="length" text="42 ft"/>
+          <STRING style="street_name" text="Gang Lembayung"/>
+          <STRING style="intersected_road_name" text="Jalan Gondosuli"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="19" distance="0.064318" cumul_length="1.067803" time="0.000000" drivetime="0.000000" turn_angle="87.507449" depart_bearing="10.808001" general_bearing="10.800849" maneuvertype="turn_right">
+        <ENVELOPE minx="432304.062000" miny="9138613.880700" maxx="432323.452600" maxy="9138715.521600"/>
+        <POINT name="maneuver" x="432304.062000" y="9138613.880700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Gondosuli"/>
+          <STRING style="Cumul_length" text="1.1 mi"/>
+          <STRING style="summary" text="Drive 340 ft"/>
+          <STRING style="length" text="340 ft"/>
+          <STRING style="street_name" text="Jalan Gondosuli"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="20" distance="0.149935" cumul_length="1.132122" time="0.000000" drivetime="0.000000" turn_angle="358.507775" depart_bearing="9.246848" general_bearing="9.537724" maneuvertype="straight">
+        <ENVELOPE minx="432323.452600" miny="9138715.521600" maxx="432363.418700" maxy="9138953.387400"/>
+        <POINT name="maneuver" x="432323.452600" y="9138715.521600"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Mojo"/>
+          <STRING style="Cumul_length" text="1.1 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Mojo"/>
+          <STRING style="intersected_road_name" text="Jalan Melati Wetan / Jalan Kompol Bambang Suprapto"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="21" distance="0.416712" cumul_length="1.282057" time="0.000000" drivetime="0.000000" turn_angle="74.645932" depart_bearing="85.053966" general_bearing="85.354288" maneuvertype="turn_right">
+        <ENVELOPE minx="432363.418700" miny="9138953.387400" maxx="433031.601600" maxy="9139007.684700"/>
+        <POINT name="maneuver" x="432363.418700" y="9138953.387400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Tridarma"/>
+          <STRING style="Cumul_length" text="1.3 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Tridarma"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="22" distance="0.084369" cumul_length="1.698768" time="0.000000" drivetime="0.000000" turn_angle="101.889918" depart_bearing="188.091021" general_bearing="134.442643" maneuvertype="turn_right_left">
+        <ENVELOPE minx="433023.787500" miny="9138938.768745" maxx="433101.871558" maxy="9139007.684700"/>
+        <POINT name="maneuver" x="433031.601600" y="9139007.684700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Gang Tribakti and immediately turn left on Jalan Kusuma"/>
+          <STRING style="Cumul_length" text="1.7 mi"/>
+          <STRING style="summary" text="Drive 445 ft"/>
+          <STRING style="length" text="445 ft"/>
+          <STRING style="street_name" text="Jalan Kusuma"/>
+          <STRING style="intersected_road_name" text="Gang Tribakti"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="23" distance="0.000000" cumul_length="1.783138" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="433101.871558" miny="9138938.768745" maxx="433101.871558" maxy="9138938.768745"/>
+        <POINT name="maneuver" x="433101.871558" y="9138938.768745"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 4, on the left"/>
+          <STRING style="Cumul_length" text="1.8 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="4" fromStop="Location 4" toStop="Location 5">
+      <DIRECTION id="24" distance="0.000000" cumul_length="1.783138" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="433101.871558" miny="9138938.768745" maxx="433101.871558" maxy="9138938.768745"/>
+        <POINT name="maneuver" x="433101.871558" y="9138938.768745"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 4"/>
+          <STRING style="Cumul_length" text="1.8 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="25" distance="0.049191" cumul_length="1.783138" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="279.354873" general_bearing="279.354873" maneuvertype="u_turn">
+        <ENVELOPE minx="433023.787500" miny="9138938.768745" maxx="433101.871558" maxy="9138951.632300"/>
+        <POINT name="maneuver" x="433101.871558" y="9138938.768745"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back west on Jalan Kusuma"/>
+          <STRING style="Cumul_length" text="1.8 mi"/>
+          <STRING style="summary" text="Drive 260 ft"/>
+          <STRING style="length" text="260 ft"/>
+          <STRING style="street_name" text="Jalan Kusuma"/>
+          <STRING style="intersected_road_name" text="Gang Tribakti"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="26" distance="0.451891" cumul_length="1.832328" time="0.000000" drivetime="0.000000" turn_angle="88.418730" depart_bearing="7.773603" general_bearing="270.152278" maneuvertype="turn_right_left">
+        <ENVELOPE minx="432363.418700" miny="9138951.632300" maxx="433031.601600" maxy="9139007.684700"/>
+        <POINT name="maneuver" x="433023.787500" y="9138951.632300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Gang Tribakti and immediately turn left on Jalan Tridarma"/>
+          <STRING style="Cumul_length" text="1.8 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Tridarma"/>
+          <STRING style="intersected_road_name" text="Gang Tribakti"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="27" distance="0.010466" cumul_length="2.284219" time="0.000000" drivetime="0.000000" turn_angle="106.569117" depart_bearing="11.623082" general_bearing="11.977868" maneuvertype="turn_right">
+        <ENVELOPE minx="432363.418700" miny="9138953.387400" maxx="432366.912200" maxy="9138969.854300"/>
+        <POINT name="maneuver" x="432363.418700" y="9138953.387400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Mojo"/>
+          <STRING style="Cumul_length" text="2.3 mi"/>
+          <STRING style="summary" text="Drive 55 ft"/>
+          <STRING style="length" text="55 ft"/>
+          <STRING style="street_name" text="Jalan Mojo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="28" distance="0.014985" cumul_length="2.294685" time="0.000000" drivetime="0.000000" turn_angle="358.619394" depart_bearing="11.258941" general_bearing="11.258941" maneuvertype="straight">
+        <ENVELOPE minx="432366.912200" miny="9138969.854300" maxx="432371.619100" maxy="9138993.498200"/>
+        <POINT name="maneuver" x="432366.912200" y="9138969.854300"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Munggur"/>
+          <STRING style="Cumul_length" text="2.3 mi"/>
+          <STRING style="summary" text="Drive 79 ft"/>
+          <STRING style="length" text="79 ft"/>
+          <STRING style="street_name" text="Jalan Munggur"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="29" distance="0.360084" cumul_length="2.309670" time="0.000000" drivetime="0.000000" turn_angle="254.569300" depart_bearing="265.828241" general_bearing="269.282460" maneuvertype="turn_left">
+        <ENVELOPE minx="431794.212000" miny="9138967.134400" maxx="432371.619100" maxy="9138993.498200"/>
+        <POINT name="maneuver" x="432371.619100" y="9138993.498200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Mutiara"/>
+          <STRING style="Cumul_length" text="2.3 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Mutiara"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="30" distance="0.214373" cumul_length="2.669755" time="0.000000" drivetime="0.000000" turn_angle="46.896552" depart_bearing="321.397843" general_bearing="274.586405" maneuvertype="turn_right">
+        <ENVELOPE minx="431470.875800" miny="9138986.266700" maxx="431794.212000" maxy="9139027.399500"/>
+        <POINT name="maneuver" x="431794.212000" y="9138986.266700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right to stay on Jalan Mutiara"/>
+          <STRING style="Cumul_length" text="2.7 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Mutiara"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="31" distance="0.047435" cumul_length="2.884128" time="0.000000" drivetime="0.000000" turn_angle="99.034488" depart_bearing="4.687655" general_bearing="359.957450" maneuvertype="turn_right">
+        <ENVELOPE minx="431469.126500" miny="9139012.204500" maxx="431473.560600" maxy="9139087.880700"/>
+        <POINT name="maneuver" x="431470.875800" y="9139012.204500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Dokter Wahidin Sudiro Husodo"/>
+          <STRING style="Cumul_length" text="2.9 mi"/>
+          <STRING style="summary" text="Drive 250 ft"/>
+          <STRING style="length" text="250 ft"/>
+          <STRING style="street_name" text="Jalan Dokter Wahidin Sudiro Husodo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="32" distance="0.088635" cumul_length="2.931563" time="0.000000" drivetime="0.000000" turn_angle="247.250179" depart_bearing="256.165604" general_bearing="251.150899" maneuvertype="sharp_left">
+        <ENVELOPE minx="431335.937900" miny="9139041.834200" maxx="431470.819600" maxy="9139087.880700"/>
+        <POINT name="maneuver" x="431470.819600" y="9139087.880700"/>
+        <STRINGS>
+          <STRING style="normal" text="Make sharp left on Jalan Atmosukarto"/>
+          <STRING style="Cumul_length" text="2.9 mi"/>
+          <STRING style="summary" text="Drive 468 ft"/>
+          <STRING style="length" text="468 ft"/>
+          <STRING style="street_name" text="Jalan Atmosukarto"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="33" distance="0.011155" cumul_length="3.020198" time="0.000000" drivetime="0.000000" turn_angle="293.391443" depart_bearing="186.382956" general_bearing="186.371111" maneuvertype="turn_left">
+        <ENVELOPE minx="431333.946400" miny="9139023.998400" maxx="431335.937900" maxy="9139041.834200"/>
+        <POINT name="maneuver" x="431335.937900" y="9139041.834200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Achmad Zakir"/>
+          <STRING style="Cumul_length" text="3.0 mi"/>
+          <STRING style="summary" text="Drive 59 ft"/>
+          <STRING style="length" text="59 ft"/>
+          <STRING style="street_name" text="Jalan Achmad Zakir"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="34" distance="0.230584" cumul_length="3.031354" time="0.000000" drivetime="0.000000" turn_angle="70.057834" depart_bearing="256.415041" general_bearing="263.581170" maneuvertype="turn_right">
+        <ENVELOPE minx="430965.501800" miny="9138982.548100" maxx="431333.946400" maxy="9139023.998400"/>
+        <POINT name="maneuver" x="431333.946400" y="9139023.998400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Krasak Timur"/>
+          <STRING style="Cumul_length" text="3.0 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Krasak Timur"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="35" distance="0.170827" cumul_length="3.261938" time="0.000000" drivetime="0.000000" turn_angle="358.754604" depart_bearing="263.043451" general_bearing="284.659758" maneuvertype="straight">
+        <ENVELOPE minx="430709.572900" miny="9138975.333200" maxx="430965.501800" maxy="9139049.497700"/>
+        <POINT name="maneuver" x="430965.501800" y="9138982.548100"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Krasak"/>
+          <STRING style="Cumul_length" text="3.3 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Krasak"/>
+          <STRING style="intersected_road_name" text="Jalan Emplasemen Lempuyangan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="36" distance="0.019607" cumul_length="3.432764" time="0.000000" drivetime="0.000000" turn_angle="277.328457" depart_bearing="236.542210" general_bearing="251.433678" maneuvertype="turn_left_right">
+        <ENVELOPE minx="430684.941700" miny="9139035.790900" maxx="430709.572900" maxy="9139049.497700"/>
+        <POINT name="maneuver" x="430709.572900" y="9139049.497700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Abu Bakar Ali and immediately turn right on Jalan Abu Bakar Ali"/>
+          <STRING style="Cumul_length" text="3.4 mi"/>
+          <STRING style="summary" text="Drive 104 ft"/>
+          <STRING style="length" text="104 ft"/>
+          <STRING style="street_name" text="Jalan Abu Bakar Ali"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="37" distance="0.190553" cumul_length="3.452371" time="0.000000" drivetime="0.000000" turn_angle="271.032915" depart_bearing="235.438322" general_bearing="241.677491" maneuvertype="turn_left">
+        <ENVELOPE minx="430419.379900" miny="9138898.035700" maxx="430684.941700" maxy="9139041.224500"/>
+        <POINT name="maneuver" x="430684.941700" y="9139041.224500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left to stay on Jalan Abu Bakar Ali"/>
+          <STRING style="Cumul_length" text="3.5 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Abu Bakar Ali"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="38" distance="0.019298" cumul_length="3.642924" time="0.000000" drivetime="0.000000" turn_angle="18.223091" depart_bearing="279.549288" general_bearing="279.549124" maneuvertype="bear_right">
+        <ENVELOPE minx="430388.763600" miny="9138898.099600" maxx="430419.379900" maxy="9138903.250000"/>
+        <POINT name="maneuver" x="430419.379900" y="9138898.099600"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jembatan Kleringan"/>
+          <STRING style="Cumul_length" text="3.6 mi"/>
+          <STRING style="summary" text="Drive 102 ft"/>
+          <STRING style="length" text="102 ft"/>
+          <STRING style="street_name" text="Jembatan Kleringan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="39" distance="0.165950" cumul_length="3.662222" time="0.000000" drivetime="0.000000" turn_angle="359.078920" depart_bearing="278.627484" general_bearing="273.858877" maneuvertype="straight">
+        <ENVELOPE minx="430124.671100" miny="9138901.195200" maxx="430388.763600" maxy="9138921.063600"/>
+        <POINT name="maneuver" x="430388.763600" y="9138903.250000"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Kleringan"/>
+          <STRING style="Cumul_length" text="3.7 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Kleringan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="40" distance="0.043377" cumul_length="3.828173" time="0.000000" drivetime="0.000000" turn_angle="5.751977" depart_bearing="310.152260" general_bearing="0.141276" maneuvertype="bear_right">
+        <ENVELOPE minx="430117.918900" miny="9138921.063600" maxx="430124.835700" maxy="9138987.818300"/>
+        <POINT name="maneuver" x="430124.671100" y="9138921.063600"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Margo Utomo"/>
+          <STRING style="Cumul_length" text="3.8 mi"/>
+          <STRING style="summary" text="Drive 229 ft"/>
+          <STRING style="length" text="229 ft"/>
+          <STRING style="street_name" text="Jalan Margo Utomo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="41" distance="0.277450" cumul_length="3.871550" time="0.000000" drivetime="0.000000" turn_angle="267.684479" depart_bearing="274.653894" general_bearing="280.669845" maneuvertype="turn_left">
+        <ENVELOPE minx="429703.879300" miny="9138987.818300" maxx="430124.835700" maxy="9139067.129400"/>
+        <POINT name="maneuver" x="430124.835700" y="9138987.818300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Wongsodirjan"/>
+          <STRING style="Cumul_length" text="3.9 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Wongsodirjan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="42" distance="0.063542" cumul_length="4.149000" time="0.000000" drivetime="0.000000" turn_angle="286.740856" depart_bearing="275.312535" general_bearing="275.312535" maneuvertype="turn_left">
+        <ENVELOPE minx="429602.092900" miny="9139067.129400" maxx="429703.879300" maxy="9139076.594300"/>
+        <POINT name="maneuver" x="429703.879300" y="9139067.129400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Suryonegaran"/>
+          <STRING style="Cumul_length" text="4.1 mi"/>
+          <STRING style="summary" text="Drive 336 ft"/>
+          <STRING style="length" text="336 ft"/>
+          <STRING style="street_name" text="Jalan Suryonegaran"/>
+          <STRING style="intersected_road_name" text="Kampung Sitisewu / Jalan Bumijo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="43" distance="0.070713" cumul_length="4.212542" time="0.000000" drivetime="0.000000" turn_angle="90.174640" depart_bearing="5.487175" general_bearing="7.333941" maneuvertype="turn_right">
+        <ENVELOPE minx="429602.092900" miny="9139076.594300" maxx="429616.609600" maxy="9139189.384700"/>
+        <POINT name="maneuver" x="429602.092900" y="9139076.594300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="4.2 mi"/>
+          <STRING style="summary" text="Drive 373 ft"/>
+          <STRING style="length" text="373 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="44" distance="0.045995" cumul_length="4.283255" time="0.000000" drivetime="0.000000" turn_angle="269.313502" depart_bearing="277.920918" general_bearing="277.920918" maneuvertype="turn_left">
+        <ENVELOPE minx="429543.319741" miny="9139189.384700" maxx="429616.609600" maxy="9139199.581782"/>
+        <POINT name="maneuver" x="429616.609600" y="9139189.384700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Bumijo Tengah"/>
+          <STRING style="Cumul_length" text="4.3 mi"/>
+          <STRING style="summary" text="Drive 243 ft"/>
+          <STRING style="length" text="243 ft"/>
+          <STRING style="street_name" text="Jalan Bumijo Tengah"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="45" distance="0.000000" cumul_length="4.329250" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="429543.319741" miny="9139199.581782" maxx="429543.319741" maxy="9139199.581782"/>
+        <POINT name="maneuver" x="429543.319741" y="9139199.581782"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 5, on the left"/>
+          <STRING style="Cumul_length" text="4.3 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="5" fromStop="Location 5" toStop="Location 6">
+      <DIRECTION id="46" distance="0.000000" cumul_length="4.329250" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="429543.319741" miny="9139199.581782" maxx="429543.319741" maxy="9139199.581782"/>
+        <POINT name="maneuver" x="429543.319741" y="9139199.581782"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 5"/>
+          <STRING style="Cumul_length" text="4.3 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="47" distance="0.115184" cumul_length="4.329250" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="97.920918" general_bearing="97.464156" maneuvertype="u_turn">
+        <ENVELOPE minx="429543.319741" miny="9139175.510500" maxx="429727.047400" maxy="9139199.581782"/>
+        <POINT name="maneuver" x="429543.319741" y="9139199.581782"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back east on Jalan Bumijo Tengah"/>
+          <STRING style="Cumul_length" text="4.3 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Bumijo Tengah"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="48" distance="0.300332" cumul_length="4.444433" time="0.000000" drivetime="0.000000" turn_angle="274.758043" depart_bearing="11.533637" general_bearing="9.973287" maneuvertype="turn_left">
+        <ENVELOPE minx="429727.047400" miny="9139175.510500" maxx="429810.660400" maxy="9139650.999600"/>
+        <POINT name="maneuver" x="429727.047400" y="9139175.510500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Bumijo"/>
+          <STRING style="Cumul_length" text="4.4 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Bumijo"/>
+          <STRING style="intersected_road_name" text="Jalan Gowongan Kidul"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="49" distance="0.048122" cumul_length="4.744766" time="0.000000" drivetime="0.000000" turn_angle="83.637263" depart_bearing="91.177881" general_bearing="88.216772" maneuvertype="turn_right">
+        <ENVELOPE minx="429810.660400" miny="9139650.412400" maxx="429887.301366" maxy="9139653.872900"/>
+        <POINT name="maneuver" x="429810.660400" y="9139650.999600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Diponegoro"/>
+          <STRING style="Cumul_length" text="4.7 mi"/>
+          <STRING style="summary" text="Drive 254 ft"/>
+          <STRING style="length" text="254 ft"/>
+          <STRING style="street_name" text="Jalan Diponegoro"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="50" distance="0.000000" cumul_length="4.792888" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="429887.301366" miny="9139653.385683" maxx="429887.301366" maxy="9139653.385683"/>
+        <POINT name="maneuver" x="429887.301366" y="9139653.385683"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 6, on the left"/>
+          <STRING style="Cumul_length" text="4.8 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="6" fromStop="Location 6" toStop="Location 7">
+      <DIRECTION id="51" distance="0.000000" cumul_length="4.792888" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="429887.301366" miny="9139653.385683" maxx="429887.301366" maxy="9139653.385683"/>
+        <POINT name="maneuver" x="429887.301366" y="9139653.385683"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 6"/>
+          <STRING style="Cumul_length" text="4.8 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="52" distance="0.108117" cumul_length="4.792888" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="270.676856" general_bearing="272.355057" maneuvertype="u_turn">
+        <ENVELOPE minx="429714.430100" miny="9139653.385683" maxx="429887.301366" maxy="9139660.495300"/>
+        <POINT name="maneuver" x="429887.301366" y="9139653.385683"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back west on Jalan Diponegoro"/>
+          <STRING style="Cumul_length" text="4.8 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Diponegoro"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="53" distance="0.139018" cumul_length="4.901005" time="0.000000" drivetime="0.000000" turn_angle="90.999917" depart_bearing="2.148335" general_bearing="0.978864" maneuvertype="turn_right">
+        <ENVELOPE minx="429714.430100" miny="9139660.495300" maxx="429718.250300" maxy="9139884.081000"/>
+        <POINT name="maneuver" x="429714.430100" y="9139660.495300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Asem Gede"/>
+          <STRING style="Cumul_length" text="4.9 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Asem Gede"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="54" distance="0.146215" cumul_length="5.040023" time="0.000000" drivetime="0.000000" turn_angle="88.959905" depart_bearing="89.849066" general_bearing="90.751516" maneuvertype="turn_right">
+        <ENVELOPE minx="429718.250300" miny="9139880.996300" maxx="429953.415100" maxy="9139884.261700"/>
+        <POINT name="maneuver" x="429718.250300" y="9139884.081000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Pakuningratan"/>
+          <STRING style="Cumul_length" text="5.0 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Pakuningratan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="55" distance="0.007818" cumul_length="5.186238" time="0.000000" drivetime="0.000000" turn_angle="271.778476" depart_bearing="1.797063" general_bearing="1.797063" maneuvertype="turn_left">
+        <ENVELOPE minx="429953.415100" miny="9139880.996300" maxx="429953.809503" maxy="9139893.566939"/>
+        <POINT name="maneuver" x="429953.415100" y="9139880.996300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left to stay on Jalan Pakuningratan"/>
+          <STRING style="Cumul_length" text="5.2 mi"/>
+          <STRING style="summary" text="Drive 41 ft"/>
+          <STRING style="length" text="41 ft"/>
+          <STRING style="street_name" text="Jalan Pakuningratan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="56" distance="0.000000" cumul_length="5.194056" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="429953.809503" miny="9139893.566939" maxx="429953.809503" maxy="9139893.566939"/>
+        <POINT name="maneuver" x="429953.809503" y="9139893.566939"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 7, on the right"/>
+          <STRING style="Cumul_length" text="5.2 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="7" fromStop="Location 7" toStop="Location 8">
+      <DIRECTION id="57" distance="0.000000" cumul_length="5.194056" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="429953.809503" miny="9139893.566939" maxx="429953.809503" maxy="9139893.566939"/>
+        <POINT name="maneuver" x="429953.809503" y="9139893.566939"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 7"/>
+          <STRING style="Cumul_length" text="5.2 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="58" distance="0.007818" cumul_length="5.194056" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="181.797063" general_bearing="181.797063" maneuvertype="u_turn">
+        <ENVELOPE minx="429953.415100" miny="9139880.996300" maxx="429953.809503" maxy="9139893.566939"/>
+        <POINT name="maneuver" x="429953.809503" y="9139893.566939"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back south on Jalan Pakuningratan"/>
+          <STRING style="Cumul_length" text="5.2 mi"/>
+          <STRING style="summary" text="Drive 41 ft"/>
+          <STRING style="length" text="41 ft"/>
+          <STRING style="street_name" text="Jalan Pakuningratan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="59" distance="0.145466" cumul_length="5.201873" time="0.000000" drivetime="0.000000" turn_angle="269.962891" depart_bearing="91.759955" general_bearing="91.757754" maneuvertype="turn_left">
+        <ENVELOPE minx="429953.415100" miny="9139873.817900" maxx="430187.329000" maxy="9139880.996300"/>
+        <POINT name="maneuver" x="429953.415100" y="9139880.996300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left to stay on Jalan Pakuningratan"/>
+          <STRING style="Cumul_length" text="5.2 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Pakuningratan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="60" distance="0.137729" cumul_length="5.347340" time="0.000000" drivetime="0.000000" turn_angle="273.734451" depart_bearing="5.490506" general_bearing="47.220151" maneuvertype="turn_left_right">
+        <ENVELOPE minx="430187.329000" miny="9139873.817900" maxx="430307.009500" maxy="9139984.565100"/>
+        <POINT name="maneuver" x="430187.329000" y="9139873.817900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left and immediately turn right"/>
+          <STRING style="Cumul_length" text="5.3 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="61" distance="0.024863" cumul_length="5.485068" time="0.000000" drivetime="0.000000" turn_angle="84.906200" depart_bearing="89.914514" general_bearing="65.286725" maneuvertype="turn_right_left">
+        <ENVELOPE minx="430307.009500" miny="9139984.565100" maxx="430335.978100" maxy="9139997.897300"/>
+        <POINT name="maneuver" x="430307.009500" y="9139984.565100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left"/>
+          <STRING style="Cumul_length" text="5.5 mi"/>
+          <STRING style="summary" text="Drive 131 ft"/>
+          <STRING style="length" text="131 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="62" distance="0.061531" cumul_length="5.509931" time="0.000000" drivetime="0.000000" turn_angle="82.686084" depart_bearing="93.313312" general_bearing="56.777467" maneuvertype="turn_right_left">
+        <ENVELOPE minx="430335.978100" miny="9139994.599300" maxx="430394.889900" maxy="9140036.481200"/>
+        <POINT name="maneuver" x="430335.978100" y="9139997.897300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left on Jalan Cokrokusuman"/>
+          <STRING style="Cumul_length" text="5.5 mi"/>
+          <STRING style="summary" text="Drive 325 ft"/>
+          <STRING style="length" text="325 ft"/>
+          <STRING style="street_name" text="Jalan Cokrokusuman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="63" distance="0.060706" cumul_length="5.571462" time="0.000000" drivetime="0.000000" turn_angle="90.743898" depart_bearing="93.401991" general_bearing="95.891519" maneuvertype="turn_right">
+        <ENVELOPE minx="430394.889900" miny="9140026.465700" maxx="430491.948400" maxy="9140036.481200"/>
+        <POINT name="maneuver" x="430394.889900" y="9140036.481200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="5.6 mi"/>
+          <STRING style="summary" text="Drive 321 ft"/>
+          <STRING style="length" text="321 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="64" distance="0.058727" cumul_length="5.632169" time="0.000000" drivetime="0.000000" turn_angle="267.300700" depart_bearing="5.036414" general_bearing="19.960481" maneuvertype="turn_left">
+        <ENVELOPE minx="430491.948400" miny="9140026.465700" maxx="430523.212500" maxy="9140112.547800"/>
+        <POINT name="maneuver" x="430491.948400" y="9140026.465700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="5.6 mi"/>
+          <STRING style="summary" text="Drive 310 ft"/>
+          <STRING style="length" text="310 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="65" distance="0.028746" cumul_length="5.690895" time="0.000000" drivetime="0.000000" turn_angle="355.628976" depart_bearing="7.688610" general_bearing="7.285497" maneuvertype="straight">
+        <ENVELOPE minx="430523.212500" miny="9140112.547800" maxx="430529.076500" maxy="9140158.415600"/>
+        <POINT name="maneuver" x="430523.212500" y="9140112.547800"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Pasiraman"/>
+          <STRING style="Cumul_length" text="5.7 mi"/>
+          <STRING style="summary" text="Drive 152 ft"/>
+          <STRING style="length" text="152 ft"/>
+          <STRING style="street_name" text="Jalan Pasiraman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="66" distance="0.081861" cumul_length="5.719642" time="0.000000" drivetime="0.000000" turn_angle="91.748482" depart_bearing="97.062233" general_bearing="97.781302" maneuvertype="turn_right">
+        <ENVELOPE minx="430529.076500" miny="9140140.587306" maxx="430659.542851" maxy="9140158.415600"/>
+        <POINT name="maneuver" x="430529.076500" y="9140158.415600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Profesor Dokter Sardjito"/>
+          <STRING style="Cumul_length" text="5.7 mi"/>
+          <STRING style="summary" text="Drive 432 ft"/>
+          <STRING style="length" text="432 ft"/>
+          <STRING style="street_name" text="Jalan Profesor Dokter Sardjito"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="67" distance="0.000000" cumul_length="5.801503" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="430659.542851" miny="9140140.587306" maxx="430659.542851" maxy="9140140.587306"/>
+        <POINT name="maneuver" x="430659.542851" y="9140140.587306"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 8, on the left"/>
+          <STRING style="Cumul_length" text="5.8 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="8" fromStop="Location 8" toStop="Location 9">
+      <DIRECTION id="68" distance="0.000000" cumul_length="5.801503" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="430659.542851" miny="9140140.587306" maxx="430659.542851" maxy="9140140.587306"/>
+        <POINT name="maneuver" x="430659.542851" y="9140140.587306"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 8"/>
+          <STRING style="Cumul_length" text="5.8 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="69" distance="0.002895" cumul_length="5.801503" time="0.000000" drivetime="0.000000" turn_angle="0.010224" depart_bearing="98.773740" general_bearing="98.773740" maneuvertype="straight">
+        <ENVELOPE minx="430659.542851" miny="9140139.877000" maxx="430664.145100" maxy="9140140.587306"/>
+        <POINT name="maneuver" x="430659.542851" y="9140140.587306"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue east on Jalan Profesor Dokter Sardjito"/>
+          <STRING style="Cumul_length" text="5.8 mi"/>
+          <STRING style="summary" text="Drive 15 ft"/>
+          <STRING style="length" text="15 ft"/>
+          <STRING style="street_name" text="Jalan Profesor Dokter Sardjito"/>
+          <STRING style="intersected_road_name" text="jalan setapak motor"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="70" distance="0.125347" cumul_length="5.804398" time="0.000000" drivetime="0.000000" turn_angle="96.783011" depart_bearing="195.556751" general_bearing="124.945473" maneuvertype="turn_right_left">
+        <ENVELOPE minx="430651.597800" miny="9140046.863900" maxx="430797.251000" maxy="9140139.877000"/>
+        <POINT name="maneuver" x="430664.145100" y="9140139.877000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on jalan setapak motor and immediately turn left"/>
+          <STRING style="Cumul_length" text="5.8 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="intersected_road_name" text="jalan setapak motor"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="71" distance="0.003138" cumul_length="5.929745" time="0.000000" drivetime="0.000000" turn_angle="91.025422" depart_bearing="196.800872" general_bearing="196.800872" maneuvertype="turn_right">
+        <ENVELOPE minx="430795.791600" miny="9140042.030400" maxx="430797.251000" maxy="9140046.863900"/>
+        <POINT name="maneuver" x="430797.251000" y="9140046.863900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="5.9 mi"/>
+          <STRING style="summary" text="Drive 17 ft"/>
+          <STRING style="length" text="17 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="72" distance="0.052278" cumul_length="5.932883" time="0.000000" drivetime="0.000000" turn_angle="271.997229" depart_bearing="108.798101" general_bearing="108.798101" maneuvertype="turn_left">
+        <ENVELOPE minx="430795.791600" miny="9140014.929200" maxx="430875.409500" maxy="9140042.030400"/>
+        <POINT name="maneuver" x="430795.791600" y="9140042.030400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Gang Abiyoso"/>
+          <STRING style="Cumul_length" text="5.9 mi"/>
+          <STRING style="summary" text="Drive 276 ft"/>
+          <STRING style="length" text="276 ft"/>
+          <STRING style="street_name" text="Gang Abiyoso"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="73" distance="0.088710" cumul_length="5.985161" time="0.000000" drivetime="0.000000" turn_angle="86.784588" depart_bearing="195.582689" general_bearing="193.918826" maneuvertype="turn_right">
+        <ENVELOPE minx="430841.102000" miny="9139876.494100" maxx="430875.409500" maxy="9140014.929200"/>
+        <POINT name="maneuver" x="430875.409500" y="9140014.929200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Cornelis Simanjuntak"/>
+          <STRING style="Cumul_length" text="6.0 mi"/>
+          <STRING style="summary" text="Drive 468 ft"/>
+          <STRING style="length" text="468 ft"/>
+          <STRING style="street_name" text="Jalan Cornelis Simanjuntak"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="74" distance="0.158728" cumul_length="6.073871" time="0.000000" drivetime="0.000000" turn_angle="268.424600" depart_bearing="98.778253" general_bearing="100.576507" maneuvertype="turn_left">
+        <ENVELOPE minx="430841.102000" miny="9139829.646400" maxx="431091.999400" maxy="9139876.494100"/>
+        <POINT name="maneuver" x="430841.102000" y="9139876.494100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="6.1 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="75" distance="0.021859" cumul_length="6.232599" time="0.000000" drivetime="0.000000" turn_angle="87.639487" depart_bearing="189.086882" general_bearing="146.758465" maneuvertype="turn_right_left">
+        <ENVELOPE minx="431089.104100" miny="9139808.738200" maxx="431105.703000" maxy="9139829.646400"/>
+        <POINT name="maneuver" x="431091.999400" y="9139829.646400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left"/>
+          <STRING style="Cumul_length" text="6.2 mi"/>
+          <STRING style="summary" text="Drive 115 ft"/>
+          <STRING style="length" text="115 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="76" distance="0.032455" cumul_length="6.254458" time="0.000000" drivetime="0.000000" turn_angle="90.253839" depart_bearing="189.628896" general_bearing="189.629628" maneuvertype="turn_right">
+        <ENVELOPE minx="431096.968900" miny="9139757.261000" maxx="431105.703000" maxy="9139808.738200"/>
+        <POINT name="maneuver" x="431105.703000" y="9139808.738200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Cik di Tiro"/>
+          <STRING style="Cumul_length" text="6.3 mi"/>
+          <STRING style="summary" text="Drive 171 ft"/>
+          <STRING style="length" text="171 ft"/>
+          <STRING style="street_name" text="Jalan Cik di Tiro"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="77" distance="0.076191" cumul_length="6.286913" time="0.000000" drivetime="0.000000" turn_angle="271.212694" depart_bearing="100.823633" general_bearing="184.776828" maneuvertype="turn_left_right">
+        <ENVELOPE minx="431087.434300" miny="9139643.163100" maxx="431105.461600" maxy="9139757.261000"/>
+        <POINT name="maneuver" x="431096.968900" y="9139757.261000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Cik di Tiro and immediately turn right on Jalan Cik di Tiro"/>
+          <STRING style="Cumul_length" text="6.3 mi"/>
+          <STRING style="summary" text="Drive 402 ft"/>
+          <STRING style="length" text="402 ft"/>
+          <STRING style="street_name" text="Jalan Cik di Tiro"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="78" distance="0.146716" cumul_length="6.363105" time="0.000000" drivetime="0.000000" turn_angle="1.368191" depart_bearing="187.309022" general_bearing="189.182183" maneuvertype="straight">
+        <ENVELOPE minx="431049.771000" miny="9139410.163800" maxx="431087.434300" maxy="9139643.163100"/>
+        <POINT name="maneuver" x="431087.434300" y="9139643.163100"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Suroto"/>
+          <STRING style="Cumul_length" text="6.4 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Suroto"/>
+          <STRING style="intersected_road_name" text="Jalan Jenderal Sudirman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="79" distance="0.103797" cumul_length="6.509821" time="0.000000" drivetime="0.000000" turn_angle="270.061102" depart_bearing="99.785606" general_bearing="101.990364" maneuvertype="turn_left">
+        <ENVELOPE minx="431049.771000" miny="9139375.644700" maxx="431212.305000" maxy="9139410.163800"/>
+        <POINT name="maneuver" x="431049.771000" y="9139410.163800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Hadidarsono"/>
+          <STRING style="Cumul_length" text="6.5 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Hadidarsono"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="80" distance="0.052457" cumul_length="6.613617" time="0.000000" drivetime="0.000000" turn_angle="88.686322" depart_bearing="188.891509" general_bearing="188.882873" maneuvertype="turn_right">
+        <ENVELOPE minx="431199.273700" miny="9139292.265500" maxx="431212.305000" maxy="9139375.644700"/>
+        <POINT name="maneuver" x="431212.305000" y="9139375.644700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Sareh"/>
+          <STRING style="Cumul_length" text="6.6 mi"/>
+          <STRING style="summary" text="Drive 277 ft"/>
+          <STRING style="length" text="277 ft"/>
+          <STRING style="street_name" text="Jalan Sareh"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="81" distance="0.057020" cumul_length="6.666075" time="0.000000" drivetime="0.000000" turn_angle="328.464025" depart_bearing="157.983082" general_bearing="121.252915" maneuvertype="bear_left">
+        <ENVELOPE minx="431199.273700" miny="9139245.536000" maxx="431276.272700" maxy="9139292.265500"/>
+        <POINT name="maneuver" x="431199.273700" y="9139292.265500"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Juadi"/>
+          <STRING style="Cumul_length" text="6.7 mi"/>
+          <STRING style="summary" text="Drive 301 ft"/>
+          <STRING style="length" text="301 ft"/>
+          <STRING style="street_name" text="Jalan Juadi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="82" distance="0.174984" cumul_length="6.723094" time="0.000000" drivetime="0.000000" turn_angle="86.133643" depart_bearing="204.465254" general_bearing="112.049721" maneuvertype="turn_right_left">
+        <ENVELOPE minx="431255.841100" miny="9139161.145000" maxx="431484.627000" maxy="9139245.536000"/>
+        <POINT name="maneuver" x="431276.272700" y="9139245.536000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Juadi and immediately turn left on Jalan Trimo"/>
+          <STRING style="Cumul_length" text="6.7 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Trimo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="83" distance="0.185471" cumul_length="6.898078" time="0.000000" drivetime="0.000000" turn_angle="90.450786" depart_bearing="190.671855" general_bearing="189.188819" maneuvertype="turn_right">
+        <ENVELOPE minx="431437.018700" miny="9138866.838600" maxx="431484.627000" maxy="9139161.145000"/>
+        <POINT name="maneuver" x="431484.627000" y="9139161.145000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Dokter Wahidin Sudiro Husodo"/>
+          <STRING style="Cumul_length" text="6.9 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Dokter Wahidin Sudiro Husodo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="84" distance="0.502125" cumul_length="7.083549" time="0.000000" drivetime="0.000000" turn_angle="0.462437" depart_bearing="191.975896" general_bearing="184.152275" maneuvertype="straight">
+        <ENVELOPE minx="431378.618500" miny="9138062.406100" maxx="431437.018700" maxy="9138866.838600"/>
+        <POINT name="maneuver" x="431437.018700" y="9138866.838600"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Dokter Sutomo"/>
+          <STRING style="Cumul_length" text="7.1 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Dokter Sutomo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="85" distance="0.057270" cumul_length="7.585674" time="0.000000" drivetime="0.000000" turn_angle="337.097353" depart_bearing="164.761191" general_bearing="154.338790" maneuvertype="bear_left">
+        <ENVELOPE minx="431378.618500" miny="9137980.452900" maxx="431417.991600" maxy="9138062.406100"/>
+        <POINT name="maneuver" x="431378.618500" y="9138062.406100"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Letnan Kolonel Subadri"/>
+          <STRING style="Cumul_length" text="7.6 mi"/>
+          <STRING style="summary" text="Drive 302 ft"/>
+          <STRING style="length" text="302 ft"/>
+          <STRING style="street_name" text="Jalan Letnan Kolonel Subadri"/>
+          <STRING style="intersected_road_name" text="Jalan Mayor Jenderal Bambang Sugeng / Jalan Bung Tarjo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="86" distance="0.260782" cumul_length="7.642944" time="0.000000" drivetime="0.000000" turn_angle="23.130573" depart_bearing="187.253216" general_bearing="179.623275" maneuvertype="bear_right">
+        <ENVELOPE minx="431405.046900" miny="9137571.992800" maxx="431434.100100" maxy="9137980.452900"/>
+        <POINT name="maneuver" x="431417.991600" y="9137980.452900"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Suryopranoto"/>
+          <STRING style="Cumul_length" text="7.6 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Suryopranoto"/>
+          <STRING style="intersected_road_name" text="Jalan Ki Mangunsarkoro"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="87" distance="0.067943" cumul_length="7.903727" time="0.000000" drivetime="0.000000" turn_angle="269.438005" depart_bearing="91.439311" general_bearing="132.558416" maneuvertype="turn_left_right">
+        <ENVELOPE minx="431420.677300" miny="9137510.963700" maxx="431487.142700" maxy="9137571.992800"/>
+        <POINT name="maneuver" x="431420.677300" y="9137571.992800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Sultan Agung and immediately turn right"/>
+          <STRING style="Cumul_length" text="7.9 mi"/>
+          <STRING style="summary" text="Drive 359 ft"/>
+          <STRING style="length" text="359 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Sultan Agung"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="88" distance="0.035205" cumul_length="7.971670" time="0.000000" drivetime="0.000000" turn_angle="36.718763" depart_bearing="192.549586" general_bearing="190.948555" maneuvertype="bear_right">
+        <ENVELOPE minx="431476.386200" miny="9137455.359800" maxx="431487.142700" maxy="9137510.963700"/>
+        <POINT name="maneuver" x="431487.142700" y="9137510.963700"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Taman Siswa"/>
+          <STRING style="Cumul_length" text="8.0 mi"/>
+          <STRING style="summary" text="Drive 186 ft"/>
+          <STRING style="length" text="186 ft"/>
+          <STRING style="street_name" text="Jalan Taman Siswa"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="89" distance="0.045051" cumul_length="8.006875" time="0.000000" drivetime="0.000000" turn_angle="267.179660" depart_bearing="97.973179" general_bearing="101.734169" maneuvertype="turn_left">
+        <ENVELOPE minx="431476.386200" miny="9137440.847000" maxx="431546.256000" maxy="9137455.359800"/>
+        <POINT name="maneuver" x="431476.386200" y="9137455.359800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="8.0 mi"/>
+          <STRING style="summary" text="Drive 238 ft"/>
+          <STRING style="length" text="238 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Margoyasan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="90" distance="0.138916" cumul_length="8.051926" time="0.000000" drivetime="0.000000" turn_angle="329.135242" depart_bearing="105.115414" general_bearing="115.020218" maneuvertype="bear_left">
+        <ENVELOPE minx="431546.256000" miny="9137348.421300" maxx="431738.512100" maxy="9137440.847000"/>
+        <POINT name="maneuver" x="431546.256000" y="9137440.847000"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Sentul Rejo"/>
+          <STRING style="Cumul_length" text="8.1 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Sentul Rejo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="91" distance="0.487785" cumul_length="8.190842" time="0.000000" drivetime="0.000000" turn_angle="89.773844" depart_bearing="164.991223" general_bearing="167.176020" maneuvertype="turn_right">
+        <ENVELOPE minx="431738.512100" miny="9136586.082600" maxx="431912.659700" maxy="9137351.113900"/>
+        <POINT name="maneuver" x="431738.512100" y="9137351.113900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Batikan"/>
+          <STRING style="Cumul_length" text="8.2 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Batikan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="92" distance="0.004627" cumul_length="8.678627" time="0.000000" drivetime="0.000000" turn_angle="286.631601" depart_bearing="93.228299" general_bearing="93.236829" maneuvertype="turn_left">
+        <ENVELOPE minx="431912.659700" miny="9136585.662300" maxx="431920.091600" maxy="9136586.082600"/>
+        <POINT name="maneuver" x="431912.659700" y="9136586.082600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Babaran"/>
+          <STRING style="Cumul_length" text="8.7 mi"/>
+          <STRING style="summary" text="Drive 24 ft"/>
+          <STRING style="length" text="24 ft"/>
+          <STRING style="street_name" text="Jalan Babaran"/>
+          <STRING style="intersected_road_name" text="Gang Rukun"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="93" distance="0.420616" cumul_length="8.683254" time="0.000000" drivetime="0.000000" turn_angle="73.814744" depart_bearing="167.057250" general_bearing="167.056095" maneuvertype="turn_right">
+        <ENVELOPE minx="431920.091600" miny="9135926.179400" maxx="432071.665300" maxy="9136585.662300"/>
+        <POINT name="maneuver" x="431920.091600" y="9136585.662300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Batikan"/>
+          <STRING style="Cumul_length" text="8.7 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Batikan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="94" distance="0.024579" cumul_length="9.103870" time="0.000000" drivetime="0.000000" turn_angle="319.761516" depart_bearing="126.817604" general_bearing="113.081754" maneuvertype="bear_left">
+        <ENVELOPE minx="432071.665300" miny="9135910.974700" maxx="432107.343700" maxy="9135926.179400"/>
+        <POINT name="maneuver" x="432071.665300" y="9135926.179400"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left"/>
+          <STRING style="Cumul_length" text="9.1 mi"/>
+          <STRING style="summary" text="Drive 130 ft"/>
+          <STRING style="length" text="130 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="95" distance="0.002239" cumul_length="9.128449" time="0.000000" drivetime="0.000000" turn_angle="324.365311" depart_bearing="63.682541" general_bearing="63.682541" maneuvertype="bear_left">
+        <ENVELOPE minx="432107.343700" miny="9135910.974700" maxx="432110.571900" maxy="9135912.571400"/>
+        <POINT name="maneuver" x="432107.343700" y="9135910.974700"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Veteran"/>
+          <STRING style="Cumul_length" text="9.1 mi"/>
+          <STRING style="summary" text="Drive 12 ft"/>
+          <STRING style="length" text="12 ft"/>
+          <STRING style="street_name" text="Jalan Veteran"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="96" distance="0.176593" cumul_length="9.130687" time="0.000000" drivetime="0.000000" turn_angle="95.409514" depart_bearing="159.092055" general_bearing="101.048619" maneuvertype="turn_right_left">
+        <ENVELOPE minx="432110.571900" miny="9135859.919600" maxx="432380.220100" maxy="9135912.571400"/>
+        <POINT name="maneuver" x="432110.571900" y="9135912.571400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left on Jalan Menteri Supeno"/>
+          <STRING style="Cumul_length" text="9.1 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Menteri Supeno"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="97" distance="0.502673" cumul_length="9.307281" time="0.000000" drivetime="0.000000" turn_angle="68.268392" depart_bearing="167.146305" general_bearing="150.171668" maneuvertype="turn_right">
+        <ENVELOPE minx="432380.220100" miny="9135159.682200" maxx="432781.709800" maxy="9135859.919600"/>
+        <POINT name="maneuver" x="432380.220100" y="9135859.919600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Pramuka"/>
+          <STRING style="Cumul_length" text="9.3 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Pramuka"/>
+          <STRING style="intersected_road_name" text="Jalan Perintis Kemerdekaan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="98" distance="0.163213" cumul_length="9.809954" time="0.000000" drivetime="0.000000" turn_angle="57.984130" depart_bearing="184.590491" general_bearing="184.434989" maneuvertype="turn_right">
+        <ENVELOPE minx="432761.405800" miny="9134897.898200" maxx="432781.709800" maxy="9135159.682200"/>
+        <POINT name="maneuver" x="432781.709800" y="9135159.682200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right at Jalan Gambiran / Gang Merbabu to stay on Jalan Pramuka"/>
+          <STRING style="Cumul_length" text="9.8 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Pramuka"/>
+          <STRING style="intersected_road_name" text="Jalan Gambiran / Gang Merbabu"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="99" distance="0.363850" cumul_length="9.973167" time="0.000000" drivetime="0.000000" turn_angle="0.033750" depart_bearing="184.427271" general_bearing="180.879986" maneuvertype="straight">
+        <ENVELOPE minx="432733.003300" miny="9134314.618732" maxx="432761.405800" maxy="9134897.898200"/>
+        <POINT name="maneuver" x="432761.405800" y="9134897.898200"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Imogiri Timur"/>
+          <STRING style="Cumul_length" text="10.0 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Imogiri Timur"/>
+          <STRING style="intersected_road_name" text="Jalan Tegal Turi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="100" distance="0.000000" cumul_length="10.337017" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="432752.446712" miny="9134314.618732" maxx="432752.446712" maxy="9134314.618732"/>
+        <POINT name="maneuver" x="432752.446712" y="9134314.618732"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 9, on the left"/>
+          <STRING style="Cumul_length" text="10 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="9" fromStop="Location 9" toStop="Location 10">
+      <DIRECTION id="101" distance="0.000000" cumul_length="10.337017" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="432752.446712" miny="9134314.618732" maxx="432752.446712" maxy="9134314.618732"/>
+        <POINT name="maneuver" x="432752.446712" y="9134314.618732"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 9"/>
+          <STRING style="Cumul_length" text="10 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="102" distance="0.363850" cumul_length="10.337017" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="355.518353" general_bearing="0.879986" maneuvertype="u_turn">
+        <ENVELOPE minx="432733.003300" miny="9134314.618732" maxx="432761.405800" maxy="9134897.898200"/>
+        <POINT name="maneuver" x="432752.446712" y="9134314.618732"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back north on Jalan Imogiri Timur"/>
+          <STRING style="Cumul_length" text="10 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Imogiri Timur"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="103" distance="0.163213" cumul_length="10.700867" time="0.000000" drivetime="0.000000" turn_angle="359.966250" depart_bearing="4.393521" general_bearing="4.434989" maneuvertype="straight">
+        <ENVELOPE minx="432761.405800" miny="9134897.898200" maxx="432781.709800" maxy="9135159.682200"/>
+        <POINT name="maneuver" x="432761.405800" y="9134897.898200"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Pramuka"/>
+          <STRING style="Cumul_length" text="11 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Pramuka"/>
+          <STRING style="intersected_road_name" text="Jalan Tegal Turi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="104" distance="0.502673" cumul_length="10.864080" time="0.000000" drivetime="0.000000" turn_angle="302.015870" depart_bearing="306.606361" general_bearing="330.171668" maneuvertype="turn_left">
+        <ENVELOPE minx="432380.220100" miny="9135159.682200" maxx="432781.709800" maxy="9135859.919600"/>
+        <POINT name="maneuver" x="432781.709800" y="9135159.682200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left at Jalan Gambiran / Gang Merbabu to stay on Jalan Pramuka"/>
+          <STRING style="Cumul_length" text="11 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Pramuka"/>
+          <STRING style="intersected_road_name" text="Jalan Gambiran / Gang Merbabu"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="105" distance="0.168139" cumul_length="11.366753" time="0.000000" drivetime="0.000000" turn_angle="291.731608" depart_bearing="278.877913" general_bearing="278.372888" maneuvertype="turn_left">
+        <ENVELOPE minx="432112.608900" miny="9135859.919600" maxx="432380.220100" maxy="9135899.307600"/>
+        <POINT name="maneuver" x="432380.220100" y="9135859.919600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Menteri Supeno"/>
+          <STRING style="Cumul_length" text="11 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Menteri Supeno"/>
+          <STRING style="intersected_road_name" text="Jalan Perintis Kemerdekaan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="106" distance="0.010693" cumul_length="11.534892" time="0.000000" drivetime="0.000000" turn_angle="79.781891" depart_bearing="358.506778" general_bearing="335.711005" maneuvertype="turn_right_left">
+        <ENVELOPE minx="432107.343700" miny="9135899.307600" maxx="432112.608900" maxy="9135912.571400"/>
+        <POINT name="maneuver" x="432112.608900" y="9135899.307600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left on Jalan Veteran"/>
+          <STRING style="Cumul_length" text="12 mi"/>
+          <STRING style="summary" text="Drive 56 ft"/>
+          <STRING style="length" text="56 ft"/>
+          <STRING style="street_name" text="Jalan Veteran"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="107" distance="0.024579" cumul_length="11.545585" time="0.000000" drivetime="0.000000" turn_angle="353.313049" depart_bearing="279.317230" general_bearing="293.081754" maneuvertype="turn_left">
+        <ENVELOPE minx="432071.665300" miny="9135910.974700" maxx="432107.343700" maxy="9135926.179400"/>
+        <POINT name="maneuver" x="432107.343700" y="9135910.974700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="12 mi"/>
+          <STRING style="summary" text="Drive 130 ft"/>
+          <STRING style="length" text="130 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="108" distance="0.420616" cumul_length="11.570164" time="0.000000" drivetime="0.000000" turn_angle="40.238484" depart_bearing="347.056088" general_bearing="347.056095" maneuvertype="bear_right">
+        <ENVELOPE minx="431920.091600" miny="9135926.179400" maxx="432071.665300" maxy="9136585.662300"/>
+        <POINT name="maneuver" x="432071.665300" y="9135926.179400"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Batikan"/>
+          <STRING style="Cumul_length" text="12 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Batikan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="109" distance="0.004627" cumul_length="11.990780" time="0.000000" drivetime="0.000000" turn_angle="286.185256" depart_bearing="273.242506" general_bearing="273.236829" maneuvertype="turn_left">
+        <ENVELOPE minx="431912.659700" miny="9136585.662300" maxx="431920.091600" maxy="9136586.082600"/>
+        <POINT name="maneuver" x="431920.091600" y="9136585.662300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Babaran"/>
+          <STRING style="Cumul_length" text="12 mi"/>
+          <STRING style="summary" text="Drive 24 ft"/>
+          <STRING style="length" text="24 ft"/>
+          <STRING style="street_name" text="Jalan Babaran"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="110" distance="0.487785" cumul_length="11.995407" time="0.000000" drivetime="0.000000" turn_angle="73.368399" depart_bearing="346.596698" general_bearing="347.176020" maneuvertype="turn_right">
+        <ENVELOPE minx="431738.512100" miny="9136586.082600" maxx="431912.659700" maxy="9137351.113900"/>
+        <POINT name="maneuver" x="431912.659700" y="9136586.082600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Batikan"/>
+          <STRING style="Cumul_length" text="12 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Batikan"/>
+          <STRING style="intersected_road_name" text="Gang Rukun"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="111" distance="0.138916" cumul_length="12.483192" time="0.000000" drivetime="0.000000" turn_angle="270.226156" depart_bearing="255.217379" general_bearing="295.020218" maneuvertype="turn_left">
+        <ENVELOPE minx="431546.256000" miny="9137348.421300" maxx="431738.512100" maxy="9137440.847000"/>
+        <POINT name="maneuver" x="431738.512100" y="9137351.113900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Sentul Rejo"/>
+          <STRING style="Cumul_length" text="12 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Sentul Rejo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="112" distance="0.045051" cumul_length="12.622108" time="0.000000" drivetime="0.000000" turn_angle="30.864758" depart_bearing="315.980172" general_bearing="281.734169" maneuvertype="bear_right">
+        <ENVELOPE minx="431476.386200" miny="9137440.847000" maxx="431546.256000" maxy="9137455.359800"/>
+        <POINT name="maneuver" x="431546.256000" y="9137440.847000"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right"/>
+          <STRING style="Cumul_length" text="13 mi"/>
+          <STRING style="summary" text="Drive 238 ft"/>
+          <STRING style="length" text="238 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="113" distance="0.035205" cumul_length="12.667159" time="0.000000" drivetime="0.000000" turn_angle="92.820340" depart_bearing="10.793519" general_bearing="10.948555" maneuvertype="turn_right">
+        <ENVELOPE minx="431476.386200" miny="9137455.359800" maxx="431487.142700" maxy="9137510.963700"/>
+        <POINT name="maneuver" x="431476.386200" y="9137455.359800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Taman Siswa"/>
+          <STRING style="Cumul_length" text="13 mi"/>
+          <STRING style="summary" text="Drive 186 ft"/>
+          <STRING style="length" text="186 ft"/>
+          <STRING style="street_name" text="Jalan Taman Siswa"/>
+          <STRING style="intersected_road_name" text="Jalan Margoyasan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="114" distance="0.043392" cumul_length="12.702364" time="0.000000" drivetime="0.000000" turn_angle="323.281237" depart_bearing="335.830824" general_bearing="335.801030" maneuvertype="bear_left">
+        <ENVELOPE minx="431459.144600" miny="9137510.963700" maxx="431487.142700" maxy="9137571.000700"/>
+        <POINT name="maneuver" x="431487.142700" y="9137510.963700"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left"/>
+          <STRING style="Cumul_length" text="13 mi"/>
+          <STRING style="summary" text="Drive 229 ft"/>
+          <STRING style="length" text="229 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="115" distance="0.462708" cumul_length="12.745756" time="0.000000" drivetime="0.000000" turn_angle="268.553580" depart_bearing="271.439311" general_bearing="271.743109" maneuvertype="turn_left">
+        <ENVELOPE minx="430717.417200" miny="9137571.000700" maxx="431460.162300" maxy="9137593.604200"/>
+        <POINT name="maneuver" x="431460.162300" y="9137571.000700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Sultan Agung"/>
+          <STRING style="Cumul_length" text="13 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Sultan Agung"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="116" distance="0.336658" cumul_length="13.208463" time="0.000000" drivetime="0.000000" turn_angle="61.575561" depart_bearing="332.448835" general_bearing="348.694269" maneuvertype="turn_right">
+        <ENVELOPE minx="430612.284600" miny="9137593.604200" maxx="430717.417200" maxy="9138119.467700"/>
+        <POINT name="maneuver" x="430717.417200" y="9137593.604200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Jagalan"/>
+          <STRING style="Cumul_length" text="13 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Jagalan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="117" distance="0.107162" cumul_length="13.545121" time="0.000000" drivetime="0.000000" turn_angle="272.741759" depart_bearing="271.991183" general_bearing="273.008856" maneuvertype="turn_left">
+        <ENVELOPE minx="430440.276900" miny="9138119.467700" maxx="430612.284600" maxy="9138128.508900"/>
+        <POINT name="maneuver" x="430612.284600" y="9138119.467700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Juminahan"/>
+          <STRING style="Cumul_length" text="14 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Juminahan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="118" distance="0.498272" cumul_length="13.652284" time="0.000000" drivetime="0.000000" turn_angle="37.608698" depart_bearing="317.597931" general_bearing="345.159819" maneuvertype="bear_right">
+        <ENVELOPE minx="430248.920100" miny="9138128.508900" maxx="430440.276900" maxy="9138850.714200"/>
+        <POINT name="maneuver" x="430440.276900" y="9138128.508900"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Mataram"/>
+          <STRING style="Cumul_length" text="14 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Mataram"/>
+          <STRING style="intersected_road_name" text="Jalan Suryatmajan / Jalan Mayor Suryotomo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="119" distance="0.083136" cumul_length="14.150556" time="0.000000" drivetime="0.000000" turn_angle="328.881044" depart_bearing="273.222231" general_bearing="278.187615" maneuvertype="bear_left">
+        <ENVELOPE minx="430117.890100" miny="9138850.714200" maxx="430248.920100" maxy="9138869.567000"/>
+        <POINT name="maneuver" x="430248.920100" y="9138850.714200"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Abu Bakar Ali"/>
+          <STRING style="Cumul_length" text="14 mi"/>
+          <STRING style="summary" text="Drive 439 ft"/>
+          <STRING style="length" text="439 ft"/>
+          <STRING style="street_name" text="Jalan Abu Bakar Ali"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="120" distance="0.282580" cumul_length="14.233692" time="0.000000" drivetime="0.000000" turn_angle="359.416739" depart_bearing="272.655497" general_bearing="272.571286" maneuvertype="straight">
+        <ENVELOPE minx="429668.388900" miny="9138863.813100" maxx="430117.890100" maxy="9138889.753000"/>
+        <POINT name="maneuver" x="430117.890100" y="9138869.567000"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Pasar Kembang"/>
+          <STRING style="Cumul_length" text="14 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Pasar Kembang"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="121" distance="0.082962" cumul_length="14.516273" time="0.000000" drivetime="0.000000" turn_angle="0.549702" depart_bearing="293.407989" general_bearing="279.173661" maneuvertype="straight">
+        <ENVELOPE minx="429538.084969" miny="9138889.753000" maxx="429668.388900" maxy="9138910.796164"/>
+        <POINT name="maneuver" x="429668.388900" y="9138889.753000"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Jlagran Lor"/>
+          <STRING style="Cumul_length" text="15 mi"/>
+          <STRING style="summary" text="Drive 438 ft"/>
+          <STRING style="length" text="438 ft"/>
+          <STRING style="street_name" text="Jalan Jlagran Lor"/>
+          <STRING style="intersected_road_name" text="Jalan Gandekan Lor"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="122" distance="0.000000" cumul_length="14.599235" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="429538.084969" miny="9138910.796164" maxx="429538.084969" maxy="9138910.796164"/>
+        <POINT name="maneuver" x="429538.084969" y="9138910.796164"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 10, on the left"/>
+          <STRING style="Cumul_length" text="15 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="10" fromStop="Location 10" toStop="Location 11">
+      <DIRECTION id="123" distance="0.000000" cumul_length="14.599235" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="429538.084969" miny="9138910.796164" maxx="429538.084969" maxy="9138910.796164"/>
+        <POINT name="maneuver" x="429538.084969" y="9138910.796164"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 10"/>
+          <STRING style="Cumul_length" text="15 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="124" distance="0.082962" cumul_length="14.599235" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="91.985765" general_bearing="99.173661" maneuvertype="u_turn">
+        <ENVELOPE minx="429538.084969" miny="9138889.753000" maxx="429668.388900" maxy="9138910.796164"/>
+        <POINT name="maneuver" x="429538.084969" y="9138910.796164"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back east on Jalan Jlagran Lor"/>
+          <STRING style="Cumul_length" text="15 mi"/>
+          <STRING style="summary" text="Drive 438 ft"/>
+          <STRING style="length" text="438 ft"/>
+          <STRING style="street_name" text="Jalan Jlagran Lor"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="125" distance="0.282580" cumul_length="14.682197" time="0.000000" drivetime="0.000000" turn_angle="359.450298" depart_bearing="112.858287" general_bearing="92.571286" maneuvertype="straight">
+        <ENVELOPE minx="429668.388900" miny="9138863.813100" maxx="430117.890100" maxy="9138889.753000"/>
+        <POINT name="maneuver" x="429668.388900" y="9138889.753000"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Pasar Kembang"/>
+          <STRING style="Cumul_length" text="15 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Pasar Kembang"/>
+          <STRING style="intersected_road_name" text="Jalan Gandekan Lor"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="126" distance="0.083136" cumul_length="14.964778" time="0.000000" drivetime="0.000000" turn_angle="0.583261" depart_bearing="93.238759" general_bearing="98.187615" maneuvertype="straight">
+        <ENVELOPE minx="430117.890100" miny="9138850.714200" maxx="430248.920100" maxy="9138869.567000"/>
+        <POINT name="maneuver" x="430117.890100" y="9138869.567000"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Abu Bakar Ali"/>
+          <STRING style="Cumul_length" text="15 mi"/>
+          <STRING style="summary" text="Drive 439 ft"/>
+          <STRING style="length" text="439 ft"/>
+          <STRING style="street_name" text="Jalan Abu Bakar Ali"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="127" distance="0.498272" cumul_length="15.047914" time="0.000000" drivetime="0.000000" turn_angle="31.118956" depart_bearing="124.341187" general_bearing="165.159819" maneuvertype="bear_right">
+        <ENVELOPE minx="430248.920100" miny="9138128.508900" maxx="430440.276900" maxy="9138850.714200"/>
+        <POINT name="maneuver" x="430248.920100" y="9138850.714200"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Mataram"/>
+          <STRING style="Cumul_length" text="15 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Mataram"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="128" distance="0.243244" cumul_length="15.546187" time="0.000000" drivetime="0.000000" turn_angle="322.391302" depart_bearing="99.989233" general_bearing="92.657546" maneuvertype="bear_left">
+        <ENVELOPE minx="430440.276900" miny="9138110.373600" maxx="430830.987300" maxy="9138128.508900"/>
+        <POINT name="maneuver" x="430440.276900" y="9138128.508900"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Juminahan"/>
+          <STRING style="Cumul_length" text="16 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Juminahan"/>
+          <STRING style="intersected_road_name" text="Jalan Suryatmajan / Jalan Mayor Suryotomo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="129" distance="0.305761" cumul_length="15.789430" time="0.000000" drivetime="0.000000" turn_angle="1.886276" depart_bearing="95.004514" general_bearing="94.811417" maneuvertype="straight">
+        <ENVELOPE minx="430830.987300" miny="9138069.120500" maxx="431321.086200" maxy="9138110.373600"/>
+        <POINT name="maneuver" x="430830.987300" y="9138110.373600"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Mayor Jenderal Bambang Sugeng"/>
+          <STRING style="Cumul_length" text="16 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Mayor Jenderal Bambang Sugeng"/>
+          <STRING style="intersected_road_name" text="Jalan Gajah Mada / Jalan Hayam Wuruk"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="130" distance="0.057489" cumul_length="16.095191" time="0.000000" drivetime="0.000000" turn_angle="93.335093" depart_bearing="188.991164" general_bearing="191.718172" maneuvertype="turn_right">
+        <ENVELOPE minx="431302.930335" miny="9137981.588963" maxx="431321.086200" maxy="9138069.120500"/>
+        <POINT name="maneuver" x="431321.086200" y="9138069.120500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="16 mi"/>
+          <STRING style="summary" text="Drive 304 ft"/>
+          <STRING style="length" text="304 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="131" distance="0.000000" cumul_length="16.152680" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="431302.930335" miny="9137981.588963" maxx="431302.930335" maxy="9137981.588963"/>
+        <POINT name="maneuver" x="431302.930335" y="9137981.588963"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 11, on the right"/>
+          <STRING style="Cumul_length" text="16 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="11" fromStop="Location 11" toStop="Location 12">
+      <DIRECTION id="132" distance="0.000000" cumul_length="16.152680" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="431302.930335" miny="9137981.588963" maxx="431302.930335" maxy="9137981.588963"/>
+        <POINT name="maneuver" x="431302.930335" y="9137981.588963"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 11"/>
+          <STRING style="Cumul_length" text="16 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="133" distance="0.057489" cumul_length="16.152680" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="10.636600" general_bearing="11.718172" maneuvertype="u_turn">
+        <ENVELOPE minx="431302.930335" miny="9137981.588963" maxx="431321.086200" maxy="9138069.120500"/>
+        <POINT name="maneuver" x="431302.930335" y="9137981.588963"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back north"/>
+          <STRING style="Cumul_length" text="16 mi"/>
+          <STRING style="summary" text="Drive 304 ft"/>
+          <STRING style="length" text="304 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Mayor Jenderal Bambang Sugeng"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="134" distance="0.305761" cumul_length="16.210169" time="0.000000" drivetime="0.000000" turn_angle="266.664907" depart_bearing="275.656071" general_bearing="274.811417" maneuvertype="turn_left">
+        <ENVELOPE minx="430830.987300" miny="9138069.120500" maxx="431321.086200" maxy="9138110.373600"/>
+        <POINT name="maneuver" x="431321.086200" y="9138069.120500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Mayor Jenderal Bambang Sugeng"/>
+          <STRING style="Cumul_length" text="16 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Mayor Jenderal Bambang Sugeng"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="135" distance="0.243244" cumul_length="16.515929" time="0.000000" drivetime="0.000000" turn_angle="358.113724" depart_bearing="273.118237" general_bearing="272.657546" maneuvertype="straight">
+        <ENVELOPE minx="430440.276900" miny="9138110.373600" maxx="430830.987300" maxy="9138128.508900"/>
+        <POINT name="maneuver" x="430830.987300" y="9138110.373600"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Juminahan"/>
+          <STRING style="Cumul_length" text="17 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Juminahan"/>
+          <STRING style="intersected_road_name" text="Jalan Gajah Mada / Jalan Hayam Wuruk"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="136" distance="0.498272" cumul_length="16.759173" time="0.000000" drivetime="0.000000" turn_angle="37.608698" depart_bearing="317.597931" general_bearing="345.159819" maneuvertype="bear_right">
+        <ENVELOPE minx="430248.920100" miny="9138128.508900" maxx="430440.276900" maxy="9138850.714200"/>
+        <POINT name="maneuver" x="430440.276900" y="9138128.508900"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Mataram"/>
+          <STRING style="Cumul_length" text="17 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Mataram"/>
+          <STRING style="intersected_road_name" text="Jalan Suryatmajan / Jalan Mayor Suryotomo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="137" distance="0.072234" cumul_length="17.257446" time="0.000000" drivetime="0.000000" turn_angle="328.881044" depart_bearing="273.222231" general_bearing="278.942017" maneuvertype="bear_left">
+        <ENVELOPE minx="430135.401100" miny="9138850.714200" maxx="430248.920100" maxy="9138868.576100"/>
+        <POINT name="maneuver" x="430248.920100" y="9138850.714200"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Abu Bakar Ali"/>
+          <STRING style="Cumul_length" text="17 mi"/>
+          <STRING style="summary" text="Drive 381 ft"/>
+          <STRING style="length" text="381 ft"/>
+          <STRING style="street_name" text="Jalan Abu Bakar Ali"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="138" distance="0.015664" cumul_length="17.329680" time="0.000000" drivetime="0.000000" turn_angle="89.706952" depart_bearing="3.174113" general_bearing="302.169616" maneuvertype="turn_right_left">
+        <ENVELOPE minx="430119.111100" miny="9138868.576100" maxx="430135.862800" maxy="9138878.822400"/>
+        <POINT name="maneuver" x="430135.401100" y="9138868.576100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left"/>
+          <STRING style="Cumul_length" text="17 mi"/>
+          <STRING style="summary" text="Drive 83 ft"/>
+          <STRING style="length" text="83 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="139" distance="0.026483" cumul_length="17.345344" time="0.000000" drivetime="0.000000" turn_angle="90.971314" depart_bearing="7.512114" general_bearing="7.498454" maneuvertype="turn_right">
+        <ENVELOPE minx="430119.111100" miny="9138878.822400" maxx="430124.671100" maxy="9138921.063600"/>
+        <POINT name="maneuver" x="430119.111100" y="9138878.822400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="17 mi"/>
+          <STRING style="summary" text="Drive 140 ft"/>
+          <STRING style="length" text="140 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="140" distance="0.449698" cumul_length="17.371827" time="0.000000" drivetime="0.000000" turn_angle="302.662397" depart_bearing="310.152260" general_bearing="6.340821" maneuvertype="turn_left">
+        <ENVELOPE minx="430117.918900" miny="9138921.063600" maxx="430204.190300" maxy="9139636.664800"/>
+        <POINT name="maneuver" x="430124.671100" y="9138921.063600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Margo Utomo"/>
+          <STRING style="Cumul_length" text="17 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Margo Utomo"/>
+          <STRING style="intersected_road_name" text="Jalan Kleringan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="141" distance="0.021647" cumul_length="17.821524" time="0.000000" drivetime="0.000000" turn_angle="313.037966" depart_bearing="320.023732" general_bearing="15.834833" maneuvertype="bear_left">
+        <ENVELOPE minx="430198.868300" miny="9139636.664800" maxx="430211.835300" maxy="9139663.619100"/>
+        <POINT name="maneuver" x="430204.190300" y="9139636.664800"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left"/>
+          <STRING style="Cumul_length" text="18 mi"/>
+          <STRING style="summary" text="Drive 114 ft"/>
+          <STRING style="length" text="114 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="142" distance="0.254993" cumul_length="17.843171" time="0.000000" drivetime="0.000000" turn_angle="299.160047" depart_bearing="6.271827" general_bearing="6.780155" maneuvertype="turn_left">
+        <ENVELOPE minx="430211.835300" miny="9139663.619100" maxx="430260.228100" maxy="9140070.652400"/>
+        <POINT name="maneuver" x="430211.835300" y="9139663.619100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Pangeran Mangkubumi"/>
+          <STRING style="Cumul_length" text="18 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Pangeran Mangkubumi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="143" distance="0.075146" cumul_length="18.098164" time="0.000000" drivetime="0.000000" turn_angle="19.109225" depart_bearing="24.731886" general_bearing="9.016011" maneuvertype="bear_right">
+        <ENVELOPE minx="430260.228100" miny="9140070.652400" maxx="430279.115000" maxy="9140189.684300"/>
+        <POINT name="maneuver" x="430260.228100" y="9140070.652400"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan AM Sangaji"/>
+          <STRING style="Cumul_length" text="18 mi"/>
+          <STRING style="summary" text="Drive 397 ft"/>
+          <STRING style="length" text="397 ft"/>
+          <STRING style="street_name" text="Jalan AM Sangaji"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="144" distance="0.334915" cumul_length="18.173311" time="0.000000" drivetime="0.000000" turn_angle="359.735692" depart_bearing="5.487002" general_bearing="5.499230" maneuvertype="straight">
+        <ENVELOPE minx="430279.115000" miny="9140189.684300" maxx="430330.680600" maxy="9140725.289000"/>
+        <POINT name="maneuver" x="430279.115000" y="9140189.684300"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan P. Mangkubumi"/>
+          <STRING style="Cumul_length" text="18 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan P. Mangkubumi"/>
+          <STRING style="intersected_road_name" text="Jalan RW. Monginsidi / Jalan Profesor Dokter Sardjito"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="145" distance="0.084280" cumul_length="18.508225" time="0.000000" drivetime="0.000000" turn_angle="272.783611" depart_bearing="274.245553" general_bearing="313.993489" maneuvertype="turn_left">
+        <ENVELOPE minx="430256.084300" miny="9140725.289000" maxx="430330.680600" maxy="9140796.068800"/>
+        <POINT name="maneuver" x="430330.680600" y="9140725.289000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Gotong Royong"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 445 ft"/>
+          <STRING style="length" text="445 ft"/>
+          <STRING style="street_name" text="Jalan Gotong Royong"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="146" distance="0.048632" cumul_length="18.592506" time="0.000000" drivetime="0.000000" turn_angle="13.617540" depart_bearing="8.751791" general_bearing="7.797301" maneuvertype="straight">
+        <ENVELOPE minx="430257.369300" miny="9140796.068800" maxx="430267.982500" maxy="9140873.574200"/>
+        <POINT name="maneuver" x="430257.369300" y="9140796.068800"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Sakura"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 257 ft"/>
+          <STRING style="length" text="257 ft"/>
+          <STRING style="street_name" text="Jalan Sakura"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="147" distance="0.078289" cumul_length="18.641138" time="0.000000" drivetime="0.000000" turn_angle="275.014900" depart_bearing="281.931908" general_bearing="281.931908" maneuvertype="turn_left">
+        <ENVELOPE minx="430144.754000" miny="9140873.574200" maxx="430267.982500" maxy="9140899.614200"/>
+        <POINT name="maneuver" x="430267.982500" y="9140873.574200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 413 ft"/>
+          <STRING style="length" text="413 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="148" distance="0.016759" cumul_length="18.719427" time="0.000000" drivetime="0.000000" turn_angle="95.209025" depart_bearing="17.140933" general_bearing="17.140933" maneuvertype="turn_right">
+        <ENVELOPE minx="430144.754000" miny="9140899.614200" maxx="430152.700339" maxy="9140925.378670"/>
+        <POINT name="maneuver" x="430144.754000" y="9140899.614200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 88 ft"/>
+          <STRING style="length" text="88 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="149" distance="0.000000" cumul_length="18.736186" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="430152.700339" miny="9140925.378670" maxx="430152.700339" maxy="9140925.378670"/>
+        <POINT name="maneuver" x="430152.700339" y="9140925.378670"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 12, on the left"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="12" fromStop="Location 12" toStop="Location 13">
+      <DIRECTION id="150" distance="0.000000" cumul_length="18.736186" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="430152.700339" miny="9140925.378670" maxx="430152.700339" maxy="9140925.378670"/>
+        <POINT name="maneuver" x="430152.700339" y="9140925.378670"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 12"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="151" distance="0.016759" cumul_length="18.736186" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="197.140933" general_bearing="197.140933" maneuvertype="u_turn">
+        <ENVELOPE minx="430144.754000" miny="9140899.614200" maxx="430152.700339" maxy="9140925.378670"/>
+        <POINT name="maneuver" x="430152.700339" y="9140925.378670"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back south"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 88 ft"/>
+          <STRING style="length" text="88 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="152" distance="0.078289" cumul_length="18.752945" time="0.000000" drivetime="0.000000" turn_angle="264.790975" depart_bearing="101.931908" general_bearing="101.931908" maneuvertype="turn_left">
+        <ENVELOPE minx="430144.754000" miny="9140873.574200" maxx="430267.982500" maxy="9140899.614200"/>
+        <POINT name="maneuver" x="430144.754000" y="9140899.614200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 413 ft"/>
+          <STRING style="length" text="413 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="153" distance="0.048632" cumul_length="18.831234" time="0.000000" drivetime="0.000000" turn_angle="84.985100" depart_bearing="186.917008" general_bearing="187.797301" maneuvertype="turn_right">
+        <ENVELOPE minx="430257.369300" miny="9140796.068800" maxx="430267.982500" maxy="9140873.574200"/>
+        <POINT name="maneuver" x="430267.982500" y="9140873.574200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Sakura"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 257 ft"/>
+          <STRING style="length" text="257 ft"/>
+          <STRING style="street_name" text="Jalan Sakura"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="154" distance="0.084280" cumul_length="18.879866" time="0.000000" drivetime="0.000000" turn_angle="346.382460" depart_bearing="175.134250" general_bearing="133.993489" maneuvertype="straight">
+        <ENVELOPE minx="430256.084300" miny="9140725.289000" maxx="430330.680600" maxy="9140796.068800"/>
+        <POINT name="maneuver" x="430257.369300" y="9140796.068800"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Gotong Royong"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 445 ft"/>
+          <STRING style="length" text="445 ft"/>
+          <STRING style="street_name" text="Jalan Gotong Royong"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="155" distance="0.334915" cumul_length="18.964147" time="0.000000" drivetime="0.000000" turn_angle="87.216389" depart_bearing="181.461942" general_bearing="185.499230" maneuvertype="turn_right">
+        <ENVELOPE minx="430279.115000" miny="9140189.684300" maxx="430330.680600" maxy="9140725.289000"/>
+        <POINT name="maneuver" x="430330.680600" y="9140725.289000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan P. Mangkubumi"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan P. Mangkubumi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="156" distance="0.063363" cumul_length="19.299062" time="0.000000" drivetime="0.000000" turn_angle="0.264308" depart_bearing="185.751310" general_bearing="187.322893" maneuvertype="straight">
+        <ENVELOPE minx="430266.122500" miny="9140088.582500" maxx="430279.115000" maxy="9140189.684300"/>
+        <POINT name="maneuver" x="430279.115000" y="9140189.684300"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan AM Sangaji"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 335 ft"/>
+          <STRING style="length" text="335 ft"/>
+          <STRING style="street_name" text="Jalan AM Sangaji"/>
+          <STRING style="intersected_road_name" text="Jalan RW. Monginsidi / Jalan Profesor Dokter Sardjito"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="157" distance="0.082369" cumul_length="19.362425" time="0.000000" drivetime="0.000000" turn_angle="275.507949" depart_bearing="102.837800" general_bearing="100.509890" maneuvertype="turn_left">
+        <ENVELOPE minx="430266.122500" miny="9140064.454100" maxx="430396.182400" maxy="9140088.582500"/>
+        <POINT name="maneuver" x="430266.122500" y="9140088.582500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 435 ft"/>
+          <STRING style="length" text="435 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="158" distance="0.099133" cumul_length="19.444794" time="0.000000" drivetime="0.000000" turn_angle="83.795509" depart_bearing="182.645495" general_bearing="179.493995" maneuvertype="turn_right">
+        <ENVELOPE minx="430392.400600" miny="9139905.231800" maxx="430397.588600" maxy="9140064.454100"/>
+        <POINT name="maneuver" x="430396.182400" y="9140064.454100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Cokrokusuman"/>
+          <STRING style="Cumul_length" text="19 mi"/>
+          <STRING style="summary" text="Drive 523 ft"/>
+          <STRING style="length" text="523 ft"/>
+          <STRING style="street_name" text="Jalan Cokrokusuman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="159" distance="0.034013" cumul_length="19.543927" time="0.000000" drivetime="0.000000" turn_angle="310.143086" depart_bearing="126.322196" general_bearing="101.328338" maneuvertype="turn_left">
+        <ENVELOPE minx="430397.588600" miny="9139894.594300" maxx="430449.847300" maxy="9139905.231800"/>
+        <POINT name="maneuver" x="430397.588600" y="9139905.231800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 180 ft"/>
+          <STRING style="length" text="180 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="160" distance="0.088276" cumul_length="19.577940" time="0.000000" drivetime="0.000000" turn_angle="90.394257" depart_bearing="179.327856" general_bearing="181.834076" maneuvertype="turn_right">
+        <ENVELOPE minx="430445.306400" miny="9139752.955200" maxx="430450.011500" maxy="9139894.762600"/>
+        <POINT name="maneuver" x="430449.847300" y="9139894.762600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Gondolayu Lor"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 466 ft"/>
+          <STRING style="length" text="466 ft"/>
+          <STRING style="street_name" text="Jalan Gondolayu Lor"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="161" distance="0.074366" cumul_length="19.666216" time="0.000000" drivetime="0.000000" turn_angle="268.911730" depart_bearing="95.843327" general_bearing="169.497592" maneuvertype="turn_left_right">
+        <ENVELOPE minx="430445.306400" miny="9139658.996500" maxx="430473.097000" maxy="9139752.955200"/>
+        <POINT name="maneuver" x="430445.306400" y="9139752.955200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left and immediately turn right"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 393 ft"/>
+          <STRING style="length" text="393 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="162" distance="0.063372" cumul_length="19.740582" time="0.000000" drivetime="0.000000" turn_angle="251.107249" depart_bearing="77.601725" general_bearing="91.222604" maneuvertype="turn_left">
+        <ENVELOPE minx="430462.724700" miny="9139656.826300" maxx="430564.412900" maxy="9139660.078000"/>
+        <POINT name="maneuver" x="430462.724700" y="9139658.996500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 335 ft"/>
+          <STRING style="length" text="335 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="163" distance="0.022603" cumul_length="19.803954" time="0.000000" drivetime="0.000000" turn_angle="84.555232" depart_bearing="179.202483" general_bearing="112.887146" maneuvertype="turn_right_left">
+        <ENVELOPE minx="430564.412900" miny="9139645.908600" maxx="430590.274900" maxy="9139656.826300"/>
+        <POINT name="maneuver" x="430564.412900" y="9139656.826300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left on Jl. Jenderal Sudirman"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 119 ft"/>
+          <STRING style="length" text="119 ft"/>
+          <STRING style="street_name" text="Jl. Jenderal Sudirman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="164" distance="0.067964" cumul_length="19.826557" time="0.000000" drivetime="0.000000" turn_angle="12.412150" depart_bearing="103.016641" general_bearing="92.380701" maneuvertype="straight">
+        <ENVELOPE minx="430590.274900" miny="9139641.382800" maxx="430699.133600" maxy="9139645.908600"/>
+        <POINT name="maneuver" x="430590.274900" y="9139645.908600"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Jenderal Sudirman"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 359 ft"/>
+          <STRING style="length" text="359 ft"/>
+          <STRING style="street_name" text="Jalan Jenderal Sudirman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="165" distance="0.214570" cumul_length="19.894521" time="0.000000" drivetime="0.000000" turn_angle="97.958620" depart_bearing="188.154830" general_bearing="169.791627" maneuvertype="turn_right">
+        <ENVELOPE minx="430678.750600" miny="9139315.028200" maxx="430757.903300" maxy="9139641.382800"/>
+        <POINT name="maneuver" x="430699.133600" y="9139641.382800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Faridan Muridan Noto"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Faridan Muridan Noto"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="166" distance="0.175220" cumul_length="20.109091" time="0.000000" drivetime="0.000000" turn_angle="270.372238" depart_bearing="68.849670" general_bearing="88.153477" maneuvertype="turn_left">
+        <ENVELOPE minx="430757.903300" miny="9139315.028200" maxx="431035.398900" maxy="9139334.482100"/>
+        <POINT name="maneuver" x="430757.903300" y="9139315.028200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Sajiono"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Sajiono"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="167" distance="0.103972" cumul_length="20.284311" time="0.000000" drivetime="0.000000" turn_angle="0.557572" depart_bearing="113.000487" general_bearing="100.951096" maneuvertype="straight">
+        <ENVELOPE minx="431035.398900" miny="9139292.265500" maxx="431199.273700" maxy="9139323.974400"/>
+        <POINT name="maneuver" x="431035.398900" y="9139323.974400"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Juadi"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Juadi"/>
+          <STRING style="intersected_road_name" text="Jalan Suroto"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="168" distance="0.057020" cumul_length="20.388282" time="0.000000" drivetime="0.000000" turn_angle="57.719267" depart_bearing="157.983082" general_bearing="121.252915" maneuvertype="turn_right">
+        <ENVELOPE minx="431199.273700" miny="9139245.536000" maxx="431276.272700" maxy="9139292.265500"/>
+        <POINT name="maneuver" x="431199.273700" y="9139292.265500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right at Jalan Sareh to stay on Jalan Juadi"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 301 ft"/>
+          <STRING style="length" text="301 ft"/>
+          <STRING style="street_name" text="Jalan Juadi"/>
+          <STRING style="intersected_road_name" text="Jalan Sareh"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="169" distance="0.160715" cumul_length="20.445302" time="0.000000" drivetime="0.000000" turn_angle="86.133643" depart_bearing="204.465254" general_bearing="113.327462" maneuvertype="turn_right_left">
+        <ENVELOPE minx="431255.841100" miny="9139165.412500" maxx="431462.072200" maxy="9139245.536000"/>
+        <POINT name="maneuver" x="431276.272700" y="9139245.536000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Juadi and immediately turn left on Jalan Trimo"/>
+          <STRING style="Cumul_length" text="20 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Trimo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="170" distance="0.018621" cumul_length="20.606017" time="0.000000" drivetime="0.000000" turn_angle="320.673734" depart_bearing="60.689329" general_bearing="60.689329" maneuvertype="bear_left">
+        <ENVELOPE minx="431462.072200" miny="9139165.412500" maxx="431488.193700" maxy="9139180.077600"/>
+        <POINT name="maneuver" x="431462.072200" y="9139165.412500"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 98 ft"/>
+          <STRING style="length" text="98 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="171" distance="0.052367" cumul_length="20.624638" time="0.000000" drivetime="0.000000" turn_angle="309.537324" depart_bearing="10.226652" general_bearing="97.628848" maneuvertype="turn_left_right">
+        <ENVELOPE minx="431488.193700" miny="9139170.322033" maxx="431561.028518" maxy="9139190.384200"/>
+        <POINT name="maneuver" x="431488.193700" y="9139180.077600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Dokter Wahidin Sudiro Husodo and immediately turn right on Jalan Kusbini"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 276 ft"/>
+          <STRING style="length" text="276 ft"/>
+          <STRING style="street_name" text="Jalan Kusbini"/>
+          <STRING style="intersected_road_name" text="Jalan Dokter Wahidin Sudiro Husodo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="172" distance="0.000000" cumul_length="20.677005" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="431561.028518" miny="9139170.322033" maxx="431561.028518" maxy="9139170.322033"/>
+        <POINT name="maneuver" x="431561.028518" y="9139170.322033"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 13, on the right"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="13" fromStop="Location 13" toStop="Location 14">
+      <DIRECTION id="173" distance="0.000000" cumul_length="20.677005" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="431561.028518" miny="9139170.322033" maxx="431561.028518" maxy="9139170.322033"/>
+        <POINT name="maneuver" x="431561.028518" y="9139170.322033"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 13"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="174" distance="0.011945" cumul_length="20.677005" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="108.428835" general_bearing="108.428835" maneuvertype="straight">
+        <ENVELOPE minx="431561.028518" miny="9139164.246900" maxx="431579.260400" maxy="9139170.322033"/>
+        <POINT name="maneuver" x="431561.028518" y="9139170.322033"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue east on Jalan Kusbini"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 63 ft"/>
+          <STRING style="length" text="63 ft"/>
+          <STRING style="street_name" text="Jalan Kusbini"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="175" distance="0.106763" cumul_length="20.688950" time="0.000000" drivetime="0.000000" turn_angle="88.602825" depart_bearing="197.031661" general_bearing="223.661740" maneuvertype="turn_right">
+        <ENVELOPE minx="431473.560600" miny="9139053.490400" maxx="431579.260400" maxy="9139164.246900"/>
+        <POINT name="maneuver" x="431579.260400" y="9139164.246900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="176" distance="0.116880" cumul_length="20.795713" time="0.000000" drivetime="0.000000" turn_angle="285.166336" depart_bearing="183.012296" general_bearing="188.678832" maneuvertype="turn_left">
+        <ENVELOPE minx="431445.231600" miny="9138867.901000" maxx="431473.560600" maxy="9139053.490400"/>
+        <POINT name="maneuver" x="431473.560600" y="9139053.490400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Dokter Wahidin Sudiro Husodo"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Dokter Wahidin Sudiro Husodo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="177" distance="0.503616" cumul_length="20.912594" time="0.000000" drivetime="0.000000" turn_angle="2.174738" depart_bearing="192.204764" general_bearing="184.727509" maneuvertype="straight">
+        <ENVELOPE minx="431378.618500" miny="9138062.406100" maxx="431445.231600" maxy="9138867.901000"/>
+        <POINT name="maneuver" x="431445.231600" y="9138867.901000"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Dokter Sutomo"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Dokter Sutomo"/>
+          <STRING style="intersected_road_name" text="Jalan Kompol Bambang Suprapto"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="178" distance="0.057270" cumul_length="21.416210" time="0.000000" drivetime="0.000000" turn_angle="337.097353" depart_bearing="164.761191" general_bearing="154.338790" maneuvertype="bear_left">
+        <ENVELOPE minx="431378.618500" miny="9137980.452900" maxx="431417.991600" maxy="9138062.406100"/>
+        <POINT name="maneuver" x="431378.618500" y="9138062.406100"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Letnan Kolonel Subadri"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 302 ft"/>
+          <STRING style="length" text="302 ft"/>
+          <STRING style="street_name" text="Jalan Letnan Kolonel Subadri"/>
+          <STRING style="intersected_road_name" text="Jalan Mayor Jenderal Bambang Sugeng / Jalan Bung Tarjo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="179" distance="0.260782" cumul_length="21.473480" time="0.000000" drivetime="0.000000" turn_angle="23.130573" depart_bearing="187.253216" general_bearing="179.623275" maneuvertype="bear_right">
+        <ENVELOPE minx="431405.046900" miny="9137571.992800" maxx="431434.100100" maxy="9137980.452900"/>
+        <POINT name="maneuver" x="431417.991600" y="9137980.452900"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Suryopranoto"/>
+          <STRING style="Cumul_length" text="21 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Suryopranoto"/>
+          <STRING style="intersected_road_name" text="Jalan Ki Mangunsarkoro"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="180" distance="0.067943" cumul_length="21.734263" time="0.000000" drivetime="0.000000" turn_angle="269.438005" depart_bearing="91.439311" general_bearing="132.558416" maneuvertype="turn_left_right">
+        <ENVELOPE minx="431420.677300" miny="9137510.963700" maxx="431487.142700" maxy="9137571.992800"/>
+        <POINT name="maneuver" x="431420.677300" y="9137571.992800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Sultan Agung and immediately turn right"/>
+          <STRING style="Cumul_length" text="22 mi"/>
+          <STRING style="summary" text="Drive 359 ft"/>
+          <STRING style="length" text="359 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Sultan Agung"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="181" distance="0.035205" cumul_length="21.802206" time="0.000000" drivetime="0.000000" turn_angle="36.718763" depart_bearing="192.549586" general_bearing="190.948555" maneuvertype="bear_right">
+        <ENVELOPE minx="431476.386200" miny="9137455.359800" maxx="431487.142700" maxy="9137510.963700"/>
+        <POINT name="maneuver" x="431487.142700" y="9137510.963700"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Taman Siswa"/>
+          <STRING style="Cumul_length" text="22 mi"/>
+          <STRING style="summary" text="Drive 186 ft"/>
+          <STRING style="length" text="186 ft"/>
+          <STRING style="street_name" text="Jalan Taman Siswa"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="182" distance="0.045051" cumul_length="21.837411" time="0.000000" drivetime="0.000000" turn_angle="267.179660" depart_bearing="97.973179" general_bearing="101.734169" maneuvertype="turn_left">
+        <ENVELOPE minx="431476.386200" miny="9137440.847000" maxx="431546.256000" maxy="9137455.359800"/>
+        <POINT name="maneuver" x="431476.386200" y="9137455.359800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="22 mi"/>
+          <STRING style="summary" text="Drive 238 ft"/>
+          <STRING style="length" text="238 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Margoyasan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="183" distance="0.138916" cumul_length="21.882462" time="0.000000" drivetime="0.000000" turn_angle="329.135242" depart_bearing="105.115414" general_bearing="115.020218" maneuvertype="bear_left">
+        <ENVELOPE minx="431546.256000" miny="9137348.421300" maxx="431738.512100" maxy="9137440.847000"/>
+        <POINT name="maneuver" x="431546.256000" y="9137440.847000"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left on Jalan Sentul Rejo"/>
+          <STRING style="Cumul_length" text="22 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Sentul Rejo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="184" distance="0.487785" cumul_length="22.021377" time="0.000000" drivetime="0.000000" turn_angle="89.773844" depart_bearing="164.991223" general_bearing="167.176020" maneuvertype="turn_right">
+        <ENVELOPE minx="431738.512100" miny="9136586.082600" maxx="431912.659700" maxy="9137351.113900"/>
+        <POINT name="maneuver" x="431738.512100" y="9137351.113900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Batikan"/>
+          <STRING style="Cumul_length" text="22 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Batikan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="185" distance="0.677465" cumul_length="22.509163" time="0.000000" drivetime="0.000000" turn_angle="286.631601" depart_bearing="93.228299" general_bearing="101.774254" maneuvertype="turn_left">
+        <ENVELOPE minx="431912.659700" miny="9136363.755200" maxx="432979.275100" maxy="9136586.082600"/>
+        <POINT name="maneuver" x="431912.659700" y="9136586.082600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Babaran"/>
+          <STRING style="Cumul_length" text="23 mi"/>
+          <STRING style="summary" text="Drive 0.7 mi"/>
+          <STRING style="length" text="0.7 mi"/>
+          <STRING style="street_name" text="Jalan Babaran"/>
+          <STRING style="intersected_road_name" text="Gang Rukun"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="186" distance="0.052726" cumul_length="23.186628" time="0.000000" drivetime="0.000000" turn_angle="289.952246" depart_bearing="93.160103" general_bearing="101.152907" maneuvertype="turn_left_right">
+        <ENVELOPE minx="432979.275100" miny="9136347.445700" maxx="433062.000900" maxy="9136364.374800"/>
+        <POINT name="maneuver" x="432979.275100" y="9136363.755200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Veteran and immediately turn right"/>
+          <STRING style="Cumul_length" text="23 mi"/>
+          <STRING style="summary" text="Drive 278 ft"/>
+          <STRING style="length" text="278 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Veteran"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="187" distance="0.082598" cumul_length="23.239354" time="0.000000" drivetime="0.000000" turn_angle="83.240414" depart_bearing="184.849335" general_bearing="182.227476" maneuvertype="turn_right">
+        <ENVELOPE minx="433056.844600" miny="9136214.880700" maxx="433062.111700" maxy="9136347.445700"/>
+        <POINT name="maneuver" x="433062.000900" y="9136347.445700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Umbul 3"/>
+          <STRING style="Cumul_length" text="23 mi"/>
+          <STRING style="summary" text="Drive 436 ft"/>
+          <STRING style="length" text="436 ft"/>
+          <STRING style="street_name" text="Jalan Umbul 3"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="188" distance="0.201196" cumul_length="23.321952" time="0.000000" drivetime="0.000000" turn_angle="245.229646" depart_bearing="70.472109" general_bearing="76.941432" maneuvertype="sharp_left">
+        <ENVELOPE minx="433056.844600" miny="9136214.880700" maxx="433369.943779" maxy="9136287.944000"/>
+        <POINT name="maneuver" x="433056.844600" y="9136214.880700"/>
+        <STRINGS>
+          <STRING style="normal" text="Make sharp left on Jalan Ki Penjawi"/>
+          <STRING style="Cumul_length" text="23 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Ki Penjawi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="189" distance="0.000000" cumul_length="23.523147" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="433369.943779" miny="9136287.502528" maxx="433369.943779" maxy="9136287.502528"/>
+        <POINT name="maneuver" x="433369.943779" y="9136287.502528"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 14, on the left"/>
+          <STRING style="Cumul_length" text="24 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="14" fromStop="Location 14" toStop="Location 15">
+      <DIRECTION id="190" distance="0.000000" cumul_length="23.523147" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="433369.943779" miny="9136287.502528" maxx="433369.943779" maxy="9136287.502528"/>
+        <POINT name="maneuver" x="433369.943779" y="9136287.502528"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 14"/>
+          <STRING style="Cumul_length" text="24 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="191" distance="0.284789" cumul_length="23.523147" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="270.119432" general_bearing="255.243367" maneuvertype="u_turn">
+        <ENVELOPE minx="432929.551900" miny="9136171.502500" maxx="433369.943779" maxy="9136287.944000"/>
+        <POINT name="maneuver" x="433369.943779" y="9136287.502528"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back west on Jalan Ki Penjawi"/>
+          <STRING style="Cumul_length" text="24 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Ki Penjawi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="192" distance="0.552515" cumul_length="23.807936" time="0.000000" drivetime="0.000000" turn_angle="1.802652" depart_bearing="252.780891" general_bearing="251.821849" maneuvertype="straight">
+        <ENVELOPE minx="432087.289900" miny="9135894.936700" maxx="432929.551900" maxy="9136171.502500"/>
+        <POINT name="maneuver" x="432929.551900" y="9136171.502500"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Veteran"/>
+          <STRING style="Cumul_length" text="24 mi"/>
+          <STRING style="summary" text="Drive 0.6 mi"/>
+          <STRING style="length" text="0.6 mi"/>
+          <STRING style="street_name" text="Jalan Veteran"/>
+          <STRING style="intersected_road_name" text="Jalan Gambiran"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="193" distance="0.053286" cumul_length="24.360451" time="0.000000" drivetime="0.000000" turn_angle="62.505964" depart_bearing="278.873890" general_bearing="278.699483" maneuvertype="turn_right">
+        <ENVELOPE minx="432002.551600" miny="9135894.936700" maxx="432087.289900" maxy="9135907.902700"/>
+        <POINT name="maneuver" x="432087.289900" y="9135894.936700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Menteri Supeno"/>
+          <STRING style="Cumul_length" text="24 mi"/>
+          <STRING style="summary" text="Drive 281 ft"/>
+          <STRING style="length" text="281 ft"/>
+          <STRING style="street_name" text="Jalan Menteri Supeno"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="194" distance="0.565888" cumul_length="24.413736" time="0.000000" drivetime="0.000000" turn_angle="274.096888" depart_bearing="192.735474" general_bearing="192.775181" maneuvertype="turn_left">
+        <ENVELOPE minx="431801.274600" miny="9135020.199000" maxx="432002.551600" maxy="9135907.902700"/>
+        <POINT name="maneuver" x="432002.551600" y="9135907.902700"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Nitikan"/>
+          <STRING style="Cumul_length" text="24 mi"/>
+          <STRING style="summary" text="Drive 0.6 mi"/>
+          <STRING style="length" text="0.6 mi"/>
+          <STRING style="street_name" text="Jalan Nitikan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="195" distance="0.203563" cumul_length="24.979624" time="0.000000" drivetime="0.000000" turn_angle="80.878304" depart_bearing="270.102486" general_bearing="269.859473" maneuvertype="turn_right">
+        <ENVELOPE minx="431473.793600" miny="9135019.395800" maxx="431801.274600" maxy="9135020.761500"/>
+        <POINT name="maneuver" x="431801.274600" y="9135020.199000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Sorogenen"/>
+          <STRING style="Cumul_length" text="25 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Sorogenen"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="196" distance="0.116055" cumul_length="25.183188" time="0.000000" drivetime="0.000000" turn_angle="355.742960" depart_bearing="265.332984" general_bearing="257.012032" maneuvertype="straight">
+        <ENVELOPE minx="431292.989749" miny="9134977.693931" maxx="431473.793600" maxy="9135019.395800"/>
+        <POINT name="maneuver" x="431473.793600" y="9135019.395800"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Tritunggal"/>
+          <STRING style="Cumul_length" text="25 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Tritunggal"/>
+          <STRING style="intersected_road_name" text="Jalan Wirosaban / Jalan Lowanu"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="197" distance="0.000000" cumul_length="25.299242" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="431292.989749" miny="9134977.693931" maxx="431292.989749" maxy="9134977.693931"/>
+        <POINT name="maneuver" x="431292.989749" y="9134977.693931"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 15, on the right"/>
+          <STRING style="Cumul_length" text="25 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="15" fromStop="Location 15" toStop="Location 16">
+      <DIRECTION id="198" distance="0.000000" cumul_length="25.299242" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="431292.989749" miny="9134977.693931" maxx="431292.989749" maxy="9134977.693931"/>
+        <POINT name="maneuver" x="431292.989749" y="9134977.693931"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 15"/>
+          <STRING style="Cumul_length" text="25 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="199" distance="0.041381" cumul_length="25.299242" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="72.892810" general_bearing="72.892810" maneuvertype="u_turn">
+        <ENVELOPE minx="431292.989749" miny="9134977.693931" maxx="431356.617100" maxy="9134997.277000"/>
+        <POINT name="maneuver" x="431292.989749" y="9134977.693931"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back east on Jalan Tritunggal"/>
+          <STRING style="Cumul_length" text="25 mi"/>
+          <STRING style="summary" text="Drive 218 ft"/>
+          <STRING style="length" text="218 ft"/>
+          <STRING style="street_name" text="Jalan Tritunggal"/>
+          <STRING style="intersected_road_name" text="Jalan Pangeran Wirosobo / Jalan Sekolah Menengah Pertama 10"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="200" distance="0.194793" cumul_length="25.340623" time="0.000000" drivetime="0.000000" turn_angle="291.321459" depart_bearing="4.214269" general_bearing="314.689937" maneuvertype="turn_left_right">
+        <ENVELOPE minx="431177.900600" miny="9134997.277000" maxx="431358.838900" maxy="9135174.069600"/>
+        <POINT name="maneuver" x="431356.617100" y="9134997.277000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Sekolah Menengah Pertama 10 and immediately turn right"/>
+          <STRING style="Cumul_length" text="25 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="intersected_road_name" text="Jalan Pangeran Wirosobo / Jalan Sekolah Menengah Pertama 10"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="201" distance="0.256276" cumul_length="25.535416" time="0.000000" drivetime="0.000000" turn_angle="106.175784" depart_bearing="23.051492" general_bearing="5.237070" maneuvertype="turn_right">
+        <ENVELOPE minx="431177.900600" miny="9135174.069600" maxx="431223.076300" maxy="9135579.018300"/>
+        <POINT name="maneuver" x="431177.900600" y="9135174.069600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Gang Sawo 2"/>
+          <STRING style="Cumul_length" text="26 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Gang Sawo 2"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="202" distance="0.134450" cumul_length="25.791692" time="0.000000" drivetime="0.000000" turn_angle="337.432899" depart_bearing="324.607450" general_bearing="321.284988" maneuvertype="bear_left">
+        <ENVELOPE minx="431086.245800" miny="9135579.018300" maxx="431215.018000" maxy="9135739.666000"/>
+        <POINT name="maneuver" x="431215.018000" y="9135579.018300"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left"/>
+          <STRING style="Cumul_length" text="26 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="203" distance="0.190992" cumul_length="25.926142" time="0.000000" drivetime="0.000000" turn_angle="59.634011" depart_bearing="349.252725" general_bearing="357.786843" maneuvertype="turn_right">
+        <ENVELOPE minx="431055.189000" miny="9135739.666000" maxx="431086.245800" maxy="9136039.911100"/>
+        <POINT name="maneuver" x="431086.245800" y="9135739.666000"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="26 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="204" distance="0.054734" cumul_length="26.117134" time="0.000000" drivetime="0.000000" turn_angle="271.269634" depart_bearing="278.036014" general_bearing="278.006003" maneuvertype="turn_left">
+        <ENVELOPE minx="430987.445900" miny="9136039.911100" maxx="431074.642500" maxy="9136052.175100"/>
+        <POINT name="maneuver" x="431074.642500" y="9136039.911100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Kolonel Sugiono"/>
+          <STRING style="Cumul_length" text="26 mi"/>
+          <STRING style="summary" text="Drive 289 ft"/>
+          <STRING style="length" text="289 ft"/>
+          <STRING style="street_name" text="Jalan Kolonel Sugiono"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="205" distance="0.011201" cumul_length="26.171868" time="0.000000" drivetime="0.000000" turn_angle="88.913736" depart_bearing="7.031260" general_bearing="61.306886" maneuvertype="turn_right_right">
+        <ENVELOPE minx="430987.445900" miny="9136052.175100" maxx="430999.112400" maxy="9136059.329400"/>
+        <POINT name="maneuver" x="430987.445900" y="9136052.175100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Kolonel Sugiono and immediately turn right on Jalan Kolonel Sugiono"/>
+          <STRING style="Cumul_length" text="26 mi"/>
+          <STRING style="summary" text="Drive 59 ft"/>
+          <STRING style="length" text="59 ft"/>
+          <STRING style="street_name" text="Jalan Kolonel Sugiono"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="206" distance="0.073938" cumul_length="26.183069" time="0.000000" drivetime="0.000000" turn_angle="260.214174" depart_bearing="354.292428" general_bearing="337.199879" maneuvertype="turn_left">
+        <ENVELOPE minx="430956.624300" miny="9136058.560500" maxx="430999.112400" maxy="9136159.635100"/>
+        <POINT name="maneuver" x="430999.112400" y="9136058.560500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="26 mi"/>
+          <STRING style="summary" text="Drive 390 ft"/>
+          <STRING style="length" text="390 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="207" distance="0.360015" cumul_length="26.257008" time="0.000000" drivetime="0.000000" turn_angle="41.964186" depart_bearing="8.061717" general_bearing="357.870848" maneuvertype="bear_right">
+        <ENVELOPE minx="430935.366300" miny="9136159.635100" maxx="430978.289500" maxy="9136731.427500"/>
+        <POINT name="maneuver" x="430956.624300" y="9136159.635100"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right"/>
+          <STRING style="Cumul_length" text="26 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="208" distance="0.096938" cumul_length="26.617023" time="0.000000" drivetime="0.000000" turn_angle="259.520974" depart_bearing="257.602702" general_bearing="275.120530" maneuvertype="turn_left_right">
+        <ENVELOPE minx="430790.580300" miny="9136729.121300" maxx="430935.366300" maxy="9136744.401600"/>
+        <POINT name="maneuver" x="430935.366300" y="9136731.427500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left and immediately turn right on Gang Ketimun"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 512 ft"/>
+          <STRING style="length" text="512 ft"/>
+          <STRING style="street_name" text="Gang Ketimun"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="209" distance="0.086491" cumul_length="26.713960" time="0.000000" drivetime="0.000000" turn_angle="86.232221" depart_bearing="356.848167" general_bearing="355.407405" maneuvertype="turn_right">
+        <ENVELOPE minx="430779.537400" miny="9136744.401600" maxx="430790.580300" maxy="9136881.874200"/>
+        <POINT name="maneuver" x="430790.580300" y="9136744.401600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Ireda"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 457 ft"/>
+          <STRING style="length" text="457 ft"/>
+          <STRING style="street_name" text="Jalan Ireda"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="210" distance="0.198878" cumul_length="26.800451" time="0.000000" drivetime="0.000000" turn_angle="309.421833" depart_bearing="268.499549" general_bearing="349.641014" maneuvertype="turn_left_right">
+        <ENVELOPE minx="430728.747200" miny="9136879.317400" maxx="430779.537400" maxy="9137159.728300"/>
+        <POINT name="maneuver" x="430779.537400" y="9136881.874200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Ireda and immediately turn right on Gang Garuda"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Gang Garuda"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="211" distance="0.092541" cumul_length="26.999329" time="0.000000" drivetime="0.000000" turn_angle="269.527864" depart_bearing="268.994979" general_bearing="353.472712" maneuvertype="turn_left_right">
+        <ENVELOPE minx="430712.593700" miny="9137159.619600" maxx="430728.747200" maxy="9137300.907900"/>
+        <POINT name="maneuver" x="430728.747200" y="9137159.728300"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Gang Pancasila and immediately turn right"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 489 ft"/>
+          <STRING style="length" text="489 ft"/>
+          <STRING style="intersected_road_name" text="Gang Pancasila"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="212" distance="0.028949" cumul_length="27.091870" time="0.000000" drivetime="0.000000" turn_angle="296.904397" depart_bearing="279.591439" general_bearing="280.595049" maneuvertype="turn_left">
+        <ENVELOPE minx="430666.857000" miny="9137300.907900" maxx="430712.593700" maxy="9137309.463200"/>
+        <POINT name="maneuver" x="430712.593700" y="9137300.907900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 153 ft"/>
+          <STRING style="length" text="153 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="213" distance="0.120272" cumul_length="27.120820" time="0.000000" drivetime="0.000000" turn_angle="353.219604" depart_bearing="272.759597" general_bearing="274.072747" maneuvertype="straight">
+        <ENVELOPE minx="430473.863200" miny="9137309.463200" maxx="430666.857000" maxy="9137323.204900"/>
+        <POINT name="maneuver" x="430666.857000" y="9137309.463200"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Lobaningratan"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Lobaningratan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="214" distance="0.172213" cumul_length="27.241092" time="0.000000" drivetime="0.000000" turn_angle="66.067318" depart_bearing="340.491037" general_bearing="356.942940" maneuvertype="turn_right">
+        <ENVELOPE minx="430453.818300" miny="9137323.204900" maxx="430473.863200" maxy="9137593.584200"/>
+        <POINT name="maneuver" x="430473.863200" y="9137323.204900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Brigadir Jenderal Katamso"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Brigadir Jenderal Katamso"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="215" distance="0.336651" cumul_length="27.413305" time="0.000000" drivetime="0.000000" turn_angle="27.368691" depart_bearing="1.820203" general_bearing="357.950115" maneuvertype="bear_right">
+        <ENVELOPE minx="430440.276900" miny="9137593.584200" maxx="430469.655400" maxy="9138128.508900"/>
+        <POINT name="maneuver" x="430459.423200" y="9137593.584200"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Mayor Suryotomo"/>
+          <STRING style="Cumul_length" text="27 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Mayor Suryotomo"/>
+          <STRING style="intersected_road_name" text="Jalan Panembahan Senopati"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="216" distance="0.097728" cumul_length="27.749956" time="0.000000" drivetime="0.000000" turn_angle="353.046065" depart_bearing="317.597931" general_bearing="357.556673" maneuvertype="straight">
+        <ENVELOPE minx="430431.927000" miny="9138128.508900" maxx="430440.276900" maxy="9138282.748500"/>
+        <POINT name="maneuver" x="430440.276900" y="9138128.508900"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Mataram"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+          <STRING style="summary" text="Drive 516 ft"/>
+          <STRING style="length" text="516 ft"/>
+          <STRING style="street_name" text="Jalan Mataram"/>
+          <STRING style="intersected_road_name" text="Jalan Suryatmajan / Jalan Juminahan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="217" distance="0.161357" cumul_length="27.847684" time="0.000000" drivetime="0.000000" turn_angle="281.869724" depart_bearing="278.321775" general_bearing="321.186749" maneuvertype="turn_left">
+        <ENVELOPE minx="430275.994600" miny="9138282.748500" maxx="430433.695500" maxy="9138478.796000"/>
+        <POINT name="maneuver" x="430433.695500" y="9138282.748500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="218" distance="0.000000" cumul_length="28.009042" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="430275.994600" miny="9138478.796000" maxx="430275.994600" maxy="9138478.796000"/>
+        <POINT name="maneuver" x="430275.994600" y="9138478.796000"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 16, on the left"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="16" fromStop="Location 16" toStop="Location 17">
+      <DIRECTION id="219" distance="0.000000" cumul_length="28.009042" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="430275.994600" miny="9138478.796000" maxx="430275.994600" maxy="9138478.796000"/>
+        <POINT name="maneuver" x="430275.994600" y="9138478.796000"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 16"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="220" distance="0.026229" cumul_length="28.009042" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="170.226189" general_bearing="162.155021" maneuvertype="u_turn">
+        <ENVELOPE minx="430275.994600" miny="9138438.915100" maxx="430288.833500" maxy="9138478.796000"/>
+        <POINT name="maneuver" x="430275.994600" y="9138478.796000"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back south"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+          <STRING style="summary" text="Drive 138 ft"/>
+          <STRING style="length" text="138 ft"/>
+          <STRING style="intersected_road_name" text="Gang Sosrokusuman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="221" distance="0.138772" cumul_length="28.035270" time="0.000000" drivetime="0.000000" turn_angle="119.361663" depart_bearing="272.948808" general_bearing="272.917412" maneuvertype="sharp_right">
+        <ENVELOPE minx="430065.869500" miny="9138438.915100" maxx="430288.833500" maxy="9138450.277900"/>
+        <POINT name="maneuver" x="430288.833500" y="9138438.915100"/>
+        <STRINGS>
+          <STRING style="normal" text="Make sharp right on Gang Sosrokusuman"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Gang Sosrokusuman"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="222" distance="0.319939" cumul_length="28.174042" time="0.000000" drivetime="0.000000" turn_angle="274.246217" depart_bearing="187.041276" general_bearing="273.058972" maneuvertype="turn_left_right">
+        <ENVELOPE minx="429580.352300" miny="9138420.908400" maxx="430065.869500" maxy="9138476.223900"/>
+        <POINT name="maneuver" x="430065.869500" y="9138450.277900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Malioboro and immediately turn right on Jalan Dagen"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Dagen"/>
+          <STRING style="intersected_road_name" text="Jalan Malioboro"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="223" distance="0.304565" cumul_length="28.493981" time="0.000000" drivetime="0.000000" turn_angle="358.190657" depart_bearing="275.942699" general_bearing="276.046478" maneuvertype="straight">
+        <ENVELOPE minx="429093.119200" miny="9138476.223900" maxx="429580.352300" maxy="9138527.833800"/>
+        <POINT name="maneuver" x="429580.352300" y="9138476.223900"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Kemetiran Kidul"/>
+          <STRING style="Cumul_length" text="28 mi"/>
+          <STRING style="summary" text="Drive 0.3 mi"/>
+          <STRING style="length" text="0.3 mi"/>
+          <STRING style="street_name" text="Jalan Kemetiran Kidul"/>
+          <STRING style="intersected_road_name" text="Jalan Jogonegaran / Jalan Gandekan Lor"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="224" distance="0.067070" cumul_length="28.798546" time="0.000000" drivetime="0.000000" turn_angle="356.369498" depart_bearing="272.587198" general_bearing="275.653195" maneuvertype="straight">
+        <ENVELOPE minx="428985.874200" miny="9138527.833800" maxx="429093.119200" maxy="9138538.449800"/>
+        <POINT name="maneuver" x="429093.119200" y="9138527.833800"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 354 ft"/>
+          <STRING style="length" text="354 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Letnan Jenderal Suprapto"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="225" distance="0.044963" cumul_length="28.865617" time="0.000000" drivetime="0.000000" turn_angle="352.169466" depart_bearing="268.343178" general_bearing="269.163631" maneuvertype="straight">
+        <ENVELOPE minx="428913.996600" miny="9138537.400500" maxx="428985.874200" maxy="9138540.314700"/>
+        <POINT name="maneuver" x="428985.874200" y="9138538.449800"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Saudagaran"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 237 ft"/>
+          <STRING style="length" text="237 ft"/>
+          <STRING style="street_name" text="Jalan Saudagaran"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="226" distance="0.027881" cumul_length="28.910580" time="0.000000" drivetime="0.000000" turn_angle="317.810431" depart_bearing="216.997683" general_bearing="223.671048" maneuvertype="bear_left">
+        <ENVELOPE minx="428883.227800" miny="9138505.170200" maxx="428913.996600" maxy="9138537.400500"/>
+        <POINT name="maneuver" x="428913.996600" y="9138537.400500"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear left"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 147 ft"/>
+          <STRING style="length" text="147 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="227" distance="0.115966" cumul_length="28.938460" time="0.000000" drivetime="0.000000" turn_angle="303.053745" depart_bearing="176.291847" general_bearing="207.358768" maneuvertype="turn_left">
+        <ENVELOPE minx="428801.237300" miny="9138346.715500" maxx="428883.837500" maxy="9138505.170200"/>
+        <POINT name="maneuver" x="428883.227800" y="9138505.170200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="228" distance="0.028334" cumul_length="29.054426" time="0.000000" drivetime="0.000000" turn_angle="84.680192" depart_bearing="287.146452" general_bearing="252.618612" maneuvertype="turn_right_left">
+        <ENVELOPE minx="428771.459100" miny="9138337.394200" maxx="428801.237300" maxy="9138354.412800"/>
+        <POINT name="maneuver" x="428801.237300" y="9138346.715500"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right and immediately turn left on Jalan Ngadimulyo"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 150 ft"/>
+          <STRING style="length" text="150 ft"/>
+          <STRING style="street_name" text="Jalan Ngadimulyo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="229" distance="0.057100" cumul_length="29.082761" time="0.000000" drivetime="0.000000" turn_angle="99.513473" depart_bearing="287.336820" general_bearing="284.473621" maneuvertype="turn_right">
+        <ENVELOPE minx="428682.598000" miny="9138337.394200" maxx="428771.459100" maxy="9138360.331600"/>
+        <POINT name="maneuver" x="428771.459100" y="9138337.394200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 301 ft"/>
+          <STRING style="length" text="301 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="230" distance="0.075565" cumul_length="29.139861" time="0.000000" drivetime="0.000000" turn_angle="268.101266" depart_bearing="190.481341" general_bearing="191.684999" maneuvertype="turn_left">
+        <ENVELOPE minx="428657.982700" miny="9138241.311900" maxx="428682.598000" maxy="9138360.331600"/>
+        <POINT name="maneuver" x="428682.598000" y="9138360.331600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn left on Jalan Haji Oemar Said Cokroaminoto"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 399 ft"/>
+          <STRING style="length" text="399 ft"/>
+          <STRING style="street_name" text="Jalan Haji Oemar Said Cokroaminoto"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="231" distance="0.121615" cumul_length="29.215426" time="0.000000" drivetime="0.000000" turn_angle="96.384891" depart_bearing="287.916267" general_bearing="212.540440" maneuvertype="turn_right_left">
+        <ENVELOPE minx="428566.950000" miny="9138098.641500" maxx="428657.982700" maxy="9138248.156100"/>
+        <POINT name="maneuver" x="428657.982700" y="9138241.311900"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Pakuncen and immediately turn left"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="intersected_road_name" text="Jalan Pakuncen / Jalan Ngadimulyo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="232" distance="0.170477" cumul_length="29.337041" time="0.000000" drivetime="0.000000" turn_angle="14.542632" depart_bearing="204.313484" general_bearing="210.363524" maneuvertype="straight">
+        <ENVELOPE minx="428433.554400" miny="9137870.942200" maxx="428566.950000" maxy="9138098.641500"/>
+        <POINT name="maneuver" x="428566.950000" y="9138098.641500"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Gang Wajar"/>
+          <STRING style="Cumul_length" text="29 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Gang Wajar"/>
+          <STRING style="intersected_road_name" text="Jalan Masjid Kuncen"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="233" distance="0.090664" cumul_length="29.507518" time="0.000000" drivetime="0.000000" turn_angle="8.115736" depart_bearing="197.624106" general_bearing="223.665414" maneuvertype="straight">
+        <ENVELOPE minx="428340.557100" miny="9137773.508400" maxx="428433.554400" maxy="9137870.942200"/>
+        <POINT name="maneuver" x="428433.554400" y="9137870.942200"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+          <STRING style="summary" text="Drive 479 ft"/>
+          <STRING style="length" text="479 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Menjangan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="234" distance="0.069238" cumul_length="29.598182" time="0.000000" drivetime="0.000000" turn_angle="18.165418" depart_bearing="236.287014" general_bearing="236.433401" maneuvertype="bear_right">
+        <ENVELOPE minx="428256.371900" miny="9137717.646600" maxx="428340.557100" maxy="9137773.508400"/>
+        <POINT name="maneuver" x="428340.557100" y="9137773.508400"/>
+        <STRINGS>
+          <STRING style="normal" text="Bear right on Jalan Menjangan"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+          <STRING style="summary" text="Drive 366 ft"/>
+          <STRING style="length" text="366 ft"/>
+          <STRING style="street_name" text="Jalan Menjangan"/>
+          <STRING style="intersected_road_name" text="Jalan Singosaren"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="235" distance="0.040956" cumul_length="29.667420" time="0.000000" drivetime="0.000000" turn_angle="355.348991" depart_bearing="194.835036" general_bearing="188.562046" maneuvertype="straight">
+        <ENVELOPE minx="428246.603800" miny="9137652.767400" maxx="428256.371900" maxy="9137717.646600"/>
+        <POINT name="maneuver" x="428256.371900" y="9137717.646600"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+          <STRING style="summary" text="Drive 216 ft"/>
+          <STRING style="length" text="216 ft"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="236" distance="0.045899" cumul_length="29.708377" time="0.000000" drivetime="0.000000" turn_angle="88.641897" depart_bearing="271.662117" general_bearing="193.827529" maneuvertype="turn_right_left">
+        <ENVELOPE minx="428231.340300" miny="9137590.754200" maxx="428246.603800" maxy="9137653.092800"/>
+        <POINT name="maneuver" x="428246.603800" y="9137652.767400"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Re. Martadinata and immediately turn left on Jalan Wisanggeni"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+          <STRING style="summary" text="Drive 242 ft"/>
+          <STRING style="length" text="242 ft"/>
+          <STRING style="street_name" text="Jalan Wisanggeni"/>
+          <STRING style="intersected_road_name" text="Jalan Re. Martadinata"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="237" distance="0.000000" cumul_length="29.754276" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="428231.340300" miny="9137590.754200" maxx="428231.340300" maxy="9137590.754200"/>
+        <POINT name="maneuver" x="428231.340300" y="9137590.754200"/>
+        <STRINGS>
+          <STRING style="arrive" text="Arrive at Location 17, on the left"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <PATH id="17" fromStop="Location 17" toStop="Location 18">
+      <DIRECTION id="238" distance="0.000000" cumul_length="29.754276" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="depart">
+        <ENVELOPE minx="428231.340300" miny="9137590.754200" maxx="428231.340300" maxy="9137590.754200"/>
+        <POINT name="maneuver" x="428231.340300" y="9137590.754200"/>
+        <STRINGS>
+          <STRING style="depart" text="Depart Location 17"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="239" distance="0.038926" cumul_length="29.754276" time="0.000000" drivetime="0.000000" turn_angle="180.000000" depart_bearing="16.255223" general_bearing="3.716789" maneuvertype="u_turn">
+        <ENVELOPE minx="428231.340300" miny="9137590.754200" maxx="428235.389900" maxy="9137653.092800"/>
+        <POINT name="maneuver" x="428231.340300" y="9137590.754200"/>
+        <STRINGS>
+          <STRING style="normal" text="Go back north on Jalan Wisanggeni"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+          <STRING style="summary" text="Drive 206 ft"/>
+          <STRING style="length" text="206 ft"/>
+          <STRING style="street_name" text="Jalan Wisanggeni"/>
+          <STRING style="intersected_road_name" text="Jalan Re. Martadinata"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="240" distance="0.506470" cumul_length="29.793201" time="0.000000" drivetime="0.000000" turn_angle="88.798741" depart_bearing="91.662117" general_bearing="91.527144" maneuvertype="turn_right">
+        <ENVELOPE minx="428235.389900" miny="9137631.420700" maxx="429048.296800" maxy="9137653.092800"/>
+        <POINT name="maneuver" x="428235.389900" y="9137653.092800"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Re. Martadinata"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+          <STRING style="summary" text="Drive 0.5 mi"/>
+          <STRING style="length" text="0.5 mi"/>
+          <STRING style="street_name" text="Jalan Re. Martadinata"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="241" distance="0.567883" cumul_length="30.299671" time="0.000000" drivetime="0.000000" turn_angle="357.566164" depart_bearing="90.385835" general_bearing="91.489706" maneuvertype="straight">
+        <ENVELOPE minx="429048.296800" miny="9137607.674200" maxx="429961.408000" maxy="9137631.420700"/>
+        <POINT name="maneuver" x="429048.296800" y="9137631.420700"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Kyai Haji Ahmad Dahlan"/>
+          <STRING style="Cumul_length" text="30 mi"/>
+          <STRING style="summary" text="Drive 0.6 mi"/>
+          <STRING style="length" text="0.6 mi"/>
+          <STRING style="street_name" text="Jalan Kyai Haji Ahmad Dahlan"/>
+          <STRING style="intersected_road_name" text="Jalan K. Haji Wachid Hasyim"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="242" distance="0.433174" cumul_length="30.867554" time="0.000000" drivetime="0.000000" turn_angle="356.174812" depart_bearing="87.937948" general_bearing="91.569995" maneuvertype="straight">
+        <ENVELOPE minx="429961.408000" miny="9137588.605700" maxx="430657.124200" maxy="9137608.747200"/>
+        <POINT name="maneuver" x="429961.408000" y="9137607.674200"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Panembahan Senopati"/>
+          <STRING style="Cumul_length" text="31 mi"/>
+          <STRING style="summary" text="Drive 0.4 mi"/>
+          <STRING style="length" text="0.4 mi"/>
+          <STRING style="street_name" text="Jalan Panembahan Senopati"/>
+          <STRING style="intersected_road_name" text="Jalan Pangurakan / Jalan Margo Mulyo"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="243" distance="0.024369" cumul_length="31.300728" time="0.000000" drivetime="0.000000" turn_angle="359.986959" depart_bearing="91.013441" general_bearing="91.013441" maneuvertype="straight">
+        <ENVELOPE minx="430657.124200" miny="9137587.912300" maxx="430696.322100" maxy="9137588.605700"/>
+        <POINT name="maneuver" x="430657.124200" y="9137588.605700"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jembatan Sayidan"/>
+          <STRING style="Cumul_length" text="31 mi"/>
+          <STRING style="summary" text="Drive 129 ft"/>
+          <STRING style="length" text="129 ft"/>
+          <STRING style="street_name" text="Jembatan Sayidan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="244" distance="0.089167" cumul_length="31.325096" time="0.000000" drivetime="0.000000" turn_angle="0.006863" depart_bearing="91.020304" general_bearing="90.745080" maneuvertype="straight">
+        <ENVELOPE minx="430696.322100" miny="9137585.738800" maxx="430839.738100" maxy="9137587.912300"/>
+        <POINT name="maneuver" x="430696.322100" y="9137587.912300"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Sultan Agung"/>
+          <STRING style="Cumul_length" text="31 mi"/>
+          <STRING style="summary" text="Drive 471 ft"/>
+          <STRING style="length" text="471 ft"/>
+          <STRING style="street_name" text="Jalan Sultan Agung"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="245" distance="0.142133" cumul_length="31.414263" time="0.000000" drivetime="0.000000" turn_angle="93.131413" depart_bearing="184.333552" general_bearing="175.734246" maneuvertype="turn_right">
+        <ENVELOPE minx="430832.427700" miny="9137370.517700" maxx="430855.814300" maxy="9137586.047200"/>
+        <POINT name="maneuver" x="430839.738100" y="9137586.047200"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Bintaran Kulon"/>
+          <STRING style="Cumul_length" text="31 mi"/>
+          <STRING style="summary" text="Drive 0.1 mi"/>
+          <STRING style="length" text="0.1 mi"/>
+          <STRING style="street_name" text="Jalan Bintaran Kulon"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="246" distance="0.169829" cumul_length="31.556397" time="0.000000" drivetime="0.000000" turn_angle="354.024988" depart_bearing="98.882541" general_bearing="95.175092" maneuvertype="straight">
+        <ENVELOPE minx="430855.814300" miny="9137345.880100" maxx="431127.846100" maxy="9137370.517700"/>
+        <POINT name="maneuver" x="430855.814300" y="9137370.517700"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue on Jalan Bintaran Kidul"/>
+          <STRING style="Cumul_length" text="32 mi"/>
+          <STRING style="summary" text="Drive 0.2 mi"/>
+          <STRING style="length" text="0.2 mi"/>
+          <STRING style="street_name" text="Jalan Bintaran Kidul"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="247" distance="0.042494" cumul_length="31.726226" time="0.000000" drivetime="0.000000" turn_angle="79.812114" depart_bearing="174.622130" general_bearing="174.361549" maneuvertype="turn_right">
+        <ENVELOPE minx="431127.846100" miny="9137277.853100" maxx="431134.562300" maxy="9137345.880100"/>
+        <POINT name="maneuver" x="431127.846100" y="9137345.880100"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Jalan Bintaran Wetan"/>
+          <STRING style="Cumul_length" text="32 mi"/>
+          <STRING style="summary" text="Drive 224 ft"/>
+          <STRING style="length" text="224 ft"/>
+          <STRING style="street_name" text="Jalan Bintaran Wetan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="248" distance="0.045961" cumul_length="31.768720" time="0.000000" drivetime="0.000000" turn_angle="11.500889" depart_bearing="183.717749" general_bearing="183.488773" maneuvertype="straight">
+        <ENVELOPE minx="431130.062800" miny="9137204.049600" maxx="431134.562300" maxy="9137277.853100"/>
+        <POINT name="maneuver" x="431134.562300" y="9137277.853100"/>
+        <STRINGS>
+          <STRING style="normal" text="Continue"/>
+          <STRING style="Cumul_length" text="32 mi"/>
+          <STRING style="summary" text="Drive 243 ft"/>
+          <STRING style="length" text="243 ft"/>
+          <STRING style="intersected_road_name" text="Jalan Surokarsan"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="249" distance="0.011417" cumul_length="31.814681" time="0.000000" drivetime="0.000000" turn_angle="94.522109" depart_bearing="277.811518" general_bearing="277.811518" maneuvertype="turn_right">
+        <ENVELOPE minx="431111.866487" miny="9137204.049600" maxx="431130.062800" maxy="9137206.545912"/>
+        <POINT name="maneuver" x="431130.062800" y="9137204.049600"/>
+        <STRINGS>
+          <STRING style="normal" text="Turn right on Gang Nangka"/>
+          <STRING style="Cumul_length" text="32 mi"/>
+          <STRING style="summary" text="Drive 60 ft"/>
+          <STRING style="length" text="60 ft"/>
+          <STRING style="street_name" text="Gang Nangka"/>
+        </STRINGS>
+      </DIRECTION>
+      <DIRECTION id="250" distance="0.000000" cumul_length="31.826097" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="stop">
+        <ENVELOPE minx="431111.866487" miny="9137206.545912" maxx="431111.866487" maxy="9137206.545912"/>
+        <POINT name="maneuver" x="431111.866487" y="9137206.545912"/>
+        <STRINGS>
+          <STRING style="arrive" text="Finish at Location 18, on the left"/>
+          <STRING style="Cumul_length" text="32 mi"/>
+        </STRINGS>
+      </DIRECTION>
+    </PATH>
+    <DIRECTION id="summary" distance="31.826097" cumul_length="31.826097" time="0.000000" drivetime="0.000000" turn_angle="0.000000" depart_bearing="0.000000" general_bearing="0.000000" maneuvertype="unknown">
+      <ENVELOPE minx="428231.340300" miny="9134314.618732" maxx="433369.961800" maxy="9140928.070500"/>
+      <STRINGS>
+        <STRING style="summary" text="Driving distance: 32 mi"/>
+        <STRING style="length" text="32 mi"/>
+        <STRING style="Cumul_length" text="32 mi"/>
+      </STRINGS>
+    </DIRECTION>
+  </ROUTE>
+</NA:DIRECTIONS>
